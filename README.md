@@ -77,3 +77,13 @@ Pour iPad. http://twolivesleft.com/CargoBot/
 Robozzle
 --------
 Sur le web, http://www.robozzle.com/. Pour iPad, http://robozzleapp.com/
+
+
+Livres / e-books
+================
+
+Programming For Kids
+--------------------
+
+En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb.
+Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en cours de traduction : https://leanpub.com/laprogrammationpourlesenfants)
