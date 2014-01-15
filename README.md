@@ -9,7 +9,7 @@ Makey Makey
 Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau) à un ordinateur.
 A combiner par exemple avec OpenEmu sur Mac (émulateur de console de jeu avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
-Dominou
+Dominoux
 -------
 "Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. A partir de 4 ans. http://shop.electrolab.fr/kits-electronique/12-dominoux.html
 
