@@ -11,7 +11,7 @@ A combiner par exemple avec OpenEmu sur Mac (émulateur de console de jeu avec d
 
 Dominoux
 -------
-"Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. A partir de 4 ans. http://shop.electrolab.fr/kits-electronique/12-dominoux.html
+"Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler soi-même. A partir de 4 ans (une fois assemblé !). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
 
 
 Activités en groupe
