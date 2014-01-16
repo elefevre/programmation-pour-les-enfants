@@ -28,6 +28,9 @@ Jeux video
 ----------
 Jeux qui permettent de programmer un objet pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
 
+### CodeCombat
+Apprentissage Javascript http://codecombat.com/
+
 ### Kodable
 Pour iPad. http://www.surfscore.com/
 
