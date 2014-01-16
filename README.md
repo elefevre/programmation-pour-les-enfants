@@ -35,7 +35,7 @@ Evènements
 ----------
 
 ### Coding Goûter
-Des enfants de ~5 à 15 ans qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Cela se passe souvent au Carrefour Numérique à la Villette. Assez irrégulier (tous les deux mois ?) ; il faut suivre les comptes Twitter des animateurs pour savoir quand s'inscrire. A parti de 5 ans. http://ils.sont.la/tags/coding-gouter#
+Des enfants de ~5 à 15 ans qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Cela se passe souvent au Carrefour Numérique à la Villette. Assez irrégulier (tous les deux mois ?) ; il faut suivre les comptes Twitter des animateurs pour savoir quand s'inscrire. A partir de 5 ans. http://ils.sont.la/tags/coding-gouter#
 
 ### Programatoo
 Des informaticiennes qui organisent des après-midis programmation pour les adolescents, surtout avec Scratch. Semble être surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
@@ -56,8 +56,8 @@ Un environnement de création pour les enfants qui propose toutes les bases de l
 Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A partir de 8 ans. https://www.gethopscotch.com/
 
 
-Jeux
-----
+Jeux video
+----------
 Jeux qui permettent de programmer un objet pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
 
 ### Kodable
@@ -72,6 +72,14 @@ Pour iPad. http://twolivesleft.com/CargoBot/
 ### Robozzle
 Sur le web, http://www.robozzle.com/. Pour iPad, http://robozzleapp.com/
 
+Jouets programmables
+--------------------
+
+### Bee-Bot
+Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. http://www.bee-bot.us/
+
+### Primo
+Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
 
 Livres / e-books
 ----------------
