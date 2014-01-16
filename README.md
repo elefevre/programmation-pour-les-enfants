@@ -1,4 +1,4 @@
-cInitiation à la programmation pour les enfants
+Initiation à la programmation pour les enfants
 ==============================================
 
 Voici une liste de ressources qui permettent d'initier des enfants, même jeunes, aux principes de la programmation, de la logique, voire de l'électronique.
