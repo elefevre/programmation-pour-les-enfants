@@ -2,20 +2,21 @@ Cette page liste des ressources qui permettent d'initier des enfants, même jeun
 
 Si vous modifiez ce fichier, merci de vous assurer qu'il reste facile à imprimer (en particulier les noms des sites doivent être visibles). Un des objectifs de ce document est qu'il soit facilement diffusable en milieu scolaire.
 
-Objets connectés
-================
+Electronique
+============
+
 Makey Makey
 -----------
 Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau) à un ordinateur.
-A combiner par exemple avec OpenEmu sur Mac (émulateur de console de jeu avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
+A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
 Dominoux
 -------
 "Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler soi-même. A partir de 4 ans (une fois assemblé !). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
 
-LittleBits
+littleBits
 ----------
-Equivalents des blocks LEGO pour inculquer aux enfants de 8 ans ou plus des notions d'electronique. Il n'y a rien a souder, il suffit juste de connecter des composants magnetisés qui tiennent en place tout seuls. Vous pouvez commander des "kits" directement depuis le site Web de LittleBits ( http://littlebits.cc, livraison mondiale rapide via UPS ou équivalent). Le "Starter Kit" contient 10 compostants, y compris une pile 9V, un moteur (compatible avec les engrenages LEGO), un detecteur de luminosité, un buzzer et des diodes.
+Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suffit juste de connecter des composants magnetisés. Le "Base Kit" contient 10 composants, y compris batterie, moteur, détecteur de luminosité, buzzer et diodes. A partir de 8 ans. http://littlebits.cc
 
 Activités en groupe
 ===================
@@ -34,6 +35,7 @@ Un instituteur américain initie les enfants de maternelle au principe des algor
 
 Evènements
 ==========
+
 Coding Goûter
 -------------
 Des enfants de ~5 à 15 ans qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Cela se passe souvent au Carrefour Numérique à la Villette. Assez irrégulier (tous les deux mois ?) ; il faut suivre les comptes Twitter des animateurs pour savoir quand s'inscrire. A parti de 5 ans. http://ils.sont.la/tags/coding-gouter#
