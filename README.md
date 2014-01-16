@@ -89,7 +89,7 @@ Livres / e-books
 ### Programming For Kids
 En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb.
 Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en cours de traduction : https://leanpub.com/laprogrammationpourlesenfants)
-
+(en néerlandais - en cours de traduction : https://leanpub.com/programmerenvoorKinderen)
 Jeunes adultes
 --------------
 Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Plutôt à partir de 14-15 ans.
