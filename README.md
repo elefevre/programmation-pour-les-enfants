@@ -13,6 +13,9 @@ Dominoux
 -------
 "Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler soi-même. A partir de 4 ans (une fois assemblé !). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
 
+LittleBits
+----------
+Equivalents des blocks LEGO pour inculquer aux enfants de 8 ans ou plus des notions d'electronique. Il n'y a rien a souder, il suffit juste de connecter des composants magnetisés qui tiennent en place tout seuls. Vous pouvez commander des "kits" directement depuis le site Web de LittleBits ( http://littlebits.cc, livraison mondiale rapide via UPS ou équivalent). Le "Starter Kit" contient 10 compostants, y compris une pile 9V, un moteur (compatible avec les engrenages LEGO), un detecteur de luminosité, un buzzer et des diodes.
 
 Activités en groupe
 ===================
