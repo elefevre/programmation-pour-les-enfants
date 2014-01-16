@@ -81,7 +81,10 @@ Une initiative internationale, que l'on retrouve dans certaines conférences en 
 A partir de 10 ans.
 http://www.devoxx4kids.org/ ou https://plus.google.com/u/0/110682748365732089507/ pour la partie France.
 
+### CoderDojo
+Une initiative internationale, qu'on retrouve dans 22 pays.
 
+http://coderdojo.com/
 
 Livres / e-books
 ----------------
