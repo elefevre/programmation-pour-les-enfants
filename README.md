@@ -5,6 +5,42 @@ Voici une liste de ressources qui permettent d'initier des enfants, même jeunes
 
 Si vous modifiez ce fichier, merci de vous assurer qu'il reste facile à imprimer (en particulier les noms des sites doivent être visibles). Un des objectifs de ce document est qu'il soit facilement diffusable en milieu scolaire.
 
+
+Jouets programmables
+--------------------
+
+### Bee-Bot
+Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. http://www.bee-bot.us/
+
+### Primo
+Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
+
+Programmation
+-------------
+
+### Scratch
+Un environnement de création pour les enfants qui propose toutes les bases de la programmation. En Français, mais il faut s'avoir lire. Les enfants l'utilisent souvent pour créer des histoires animées. A partir de 8 ans. http://scratch.mit.edu/
+
+### Hopscotch
+Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A partir de 8 ans. https://www.gethopscotch.com/
+
+Jeux video
+----------
+Jeux qui permettent de programmer un objet pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
+
+### Kodable
+Pour iPad. http://www.surfscore.com/
+
+### Light-bot
+Pour iPad. http://light-bot.com/
+
+### Cargo Bot
+Pour iPad. http://twolivesleft.com/CargoBot/
+
+### Robozzle
+Sur le web, http://www.robozzle.com/. Pour iPad, http://robozzleapp.com/
+
+
 Electronique
 ------------
 
@@ -46,40 +82,6 @@ A partir de 10 ans.
 http://www.devoxx4kids.org/ ou https://plus.google.com/u/0/110682748365732089507/ pour la partie France.
 
 
-Programmation
--------------
-
-### Scratch
-Un environnement de création pour les enfants qui propose toutes les bases de la programmation. En Français, mais il faut s'avoir lire. Les enfants l'utilisent souvent pour créer des histoires animées. A partir de 8 ans. http://scratch.mit.edu/
-
-### Hopscotch
-Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A partir de 8 ans. https://www.gethopscotch.com/
-
-
-Jeux video
-----------
-Jeux qui permettent de programmer un objet pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
-
-### Kodable
-Pour iPad. http://www.surfscore.com/
-
-### Light-bot
-Pour iPad. http://light-bot.com/
-
-### Cargo Bot
-Pour iPad. http://twolivesleft.com/CargoBot/
-
-### Robozzle
-Sur le web, http://www.robozzle.com/. Pour iPad, http://robozzleapp.com/
-
-Jouets programmables
---------------------
-
-### Bee-Bot
-Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. http://www.bee-bot.us/
-
-### Primo
-Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
 
 Livres / e-books
 ----------------
