@@ -18,15 +18,14 @@ Un petit robot programmable à distance. Les instructions sont rendues tangibles
 Programmation
 -------------
 
-### L'heure de code
-Dnas le cadre de l'initiative Code.org, version disponible en français
-Ok sur tablettes et écran PC. http://learn.code.org/
-
 ### Scratch
 Un environnement de création pour les enfants qui propose toutes les bases de la programmation. En Français, mais il faut s'avoir lire. Les enfants l'utilisent souvent pour créer des histoires animées. A partir de 8 ans. http://scratch.mit.edu/
 
 ### Hopscotch
 Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A partir de 8 ans. https://www.gethopscotch.com/
+
+### L'heure de code
+Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et d'exercices de programmation ; les textes et les sous-titres sont disponibles en français. Utilisable sur tablettes et écran PC. http://learn.code.org/
 
 Jeux video
 ----------
@@ -86,17 +85,15 @@ A partir de 10 ans.
 http://www.devoxx4kids.org/ ou https://plus.google.com/u/0/110682748365732089507/ pour la partie France.
 
 ### CoderDojo
-Une initiative internationale, qu'on retrouve dans 22 pays.
-
-http://coderdojo.com/
+Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris et banlieue. A partir de 7 ans. http://coderdojo.com/
 
 Livres / e-books
 ----------------
 
 ### Programming For Kids
 En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb.
-Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en cours de traduction : https://leanpub.com/laprogrammationpourlesenfants)
-(en néerlandais - en cours de traduction : https://leanpub.com/programmerenvoorKinderen)
+Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en cours de traduction : https://leanpub.com/laprogrammationpourlesenfants, en néerlandais - en cours de traduction : https://leanpub.com/programmerenvoorKinderen)
+
 Jeunes adultes
 --------------
 Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Plutôt à partir de 14-15 ans.
