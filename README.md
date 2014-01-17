@@ -18,6 +18,10 @@ Un petit robot programmable à distance. Les instructions sont rendues tangibles
 Programmation
 -------------
 
+### L'heure de code
+Dnas le cadre de l'initiative Code.org, version disponible en français
+Ok sur tablettes et écran PC. http://learn.code.org/
+
 ### Scratch
 Un environnement de création pour les enfants qui propose toutes les bases de la programmation. En Français, mais il faut s'avoir lire. Les enfants l'utilisent souvent pour créer des histoires animées. A partir de 8 ans. http://scratch.mit.edu/
 
