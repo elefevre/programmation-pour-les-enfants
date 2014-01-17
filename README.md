@@ -57,6 +57,9 @@ A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux
 ### littleBits
 Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suffit juste de connecter des composants magnetisés. Le "Base Kit" contient 10 composants, y compris batterie, moteur, détecteur de luminosité, buzzer et diodes. A partir de 8 ans. http://littlebits.cc
 
+### Logiblocs
+Kits de modules, y compris portes logiques, permettant des constructions de type détecteur de présence, voire petit robot. Facilement disponible en grandes surfaces en France. A partir de 7 ans. http://www.logiblocs.com/
+
 Activités en groupe
 -------------------
 
