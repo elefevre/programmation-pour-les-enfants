@@ -47,7 +47,7 @@ Sur le web, http://www.robozzle.com/. Pour iPad, http://robozzleapp.com/
 Electronique
 ------------
 
-### Makey Makey ###
+### Makey Makey
 Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau) à un ordinateur.
 A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
@@ -59,6 +59,9 @@ Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suff
 
 ### Logiblocs
 Kits de modules, y compris portes logiques, permettant des constructions de type détecteur de présence, voire petit robot. Facilement disponible en grandes surfaces en France. A partir de 7 ans. http://www.logiblocs.com/
+
+### Bristlebot
+Un mini "robot", fabriqué à partir d'une brosse à dent, qui bouge tout seul. Aucune logique, mais facile d'approche pour des jeunes enfants. A partir de 5 ans. http://www.evilmadscientist.com/2007/bristlebot-a-tiny-directional-vibrobot/
 
 Activités en groupe
 -------------------
