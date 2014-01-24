@@ -29,19 +29,19 @@ Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et
 
 Jeux video
 ----------
-Jeux qui permettent de programmer un objet pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
+Jeux qui permettent de programmer un robot pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
 
 ### Kodable
-Pour iPad. http://www.surfscore.com/
+iPad : http://www.surfscore.com/
 
 ### Light-bot
-Pour iPad. http://light-bot.com/
+iPad : http://light-bot.com/
 
 ### Cargo Bot
-Pour iPad. http://twolivesleft.com/CargoBot/
+iPad : http://twolivesleft.com/CargoBot/
 
 ### Robozzle
-Sur le web, http://www.robozzle.com/. Pour iPad, http://robozzleapp.com/
+Web : http://www.robozzle.com/. iPad : http://robozzleapp.com/. Android : https://play.google.com/store/apps/details?id=com.team242.robozzle (RoboZZle Droid) et https://play.google.com/store/apps/details?id=com.midnightvacation.robo (Robot Trainer).
 
 
 Electronique
