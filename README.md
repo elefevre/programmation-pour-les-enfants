@@ -102,10 +102,7 @@ Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en 
 
 ### Hello Ruby
 
-Un livre sur kickstarter. 
-32 pages.
-
-http://www.kickstarter.com/projects/lindaliukas/hello-ruby
+Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
 
 Jeunes adultes
 --------------
@@ -116,3 +113,6 @@ Apprentissage Javascript en jouant à un jeu de type Donjons et Dragons. http://
 
 ### JSWarrior
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
+
+###  Squeak: Learn Programming with Robots
+Apprendre la programmation avec des robots. Le livre est en anglais : http://rmod.lille.inria.fr/botsinc; une traduction en français est en cours : https://github.com/janniklaval/botsinc
