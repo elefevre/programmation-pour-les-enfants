@@ -101,8 +101,11 @@ En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. 
 Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en cours de traduction : https://leanpub.com/laprogrammationpourlesenfants, en néerlandais - en cours de traduction : https://leanpub.com/programmerenvoorKinderen)
 
 ### Hello Ruby
+Une histoire illustrée en anglais pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
 
-Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
+### A Robot Story
+Une histoire illustrée en anglais pour apprendre à compter en binaire. 13 pages. A partir de 4 ans ? https://www.kickstarter.com/projects/lisadeluca/a-robot-story-learn-to-count-to-ten-in-binary
+
 
 Jeunes adultes
 --------------
