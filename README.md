@@ -35,7 +35,7 @@ Jeux qui permettent de programmer un robot pour le faire sortir d'un labyrinthe.
 iPad : http://www.surfscore.com/
 
 ### Light-bot
-iPad : http://light-bot.com/
+iPad et Android : http://light-bot.com/
 
 ### Cargo Bot
 iPad : http://twolivesleft.com/CargoBot/
