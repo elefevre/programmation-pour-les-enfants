@@ -69,7 +69,7 @@ Activités en groupe
 -------------------
 
 ### Robot Turtles
-Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. Le jeu peut être adapté pour jouer simultanément avec des enfants de 4 à 15 ans. A partir de 4 ans. http://www.robotturtles.com/
+Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
 ### Dr Techniko
 "Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/
