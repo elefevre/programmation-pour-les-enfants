@@ -119,9 +119,10 @@ Apprentissage Javascript en jouant à un jeu de type Donjons et Dragons. http://
 ### JSWarrior
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
 
+### Ruby Warrior
+Apprentissage Ruby en programmant un chevalier dans un donjon; tout à fait comme JSWarrior. https://www.bloc.io/ruby-warrior#/
+
 ###  Squeak: Learn Programming with Robots
 Apprendre la programmation avec des robots. Le livre est en anglais : http://rmod.lille.inria.fr/botsinc; une traduction en français est en cours : https://github.com/janniklaval/botsinc
 
-###  Ruby warrior
-Apprentissage Ruby en programmant un chevalier combattre des montres d'un donjon. https://www.bloc.io/ruby-warrior#/
 
