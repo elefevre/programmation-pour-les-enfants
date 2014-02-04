@@ -27,6 +27,9 @@ Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A 
 ### L'heure de code
 Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et d'exercices de programmation ; les textes et les sous-titres sont disponibles en français. Utilisable sur tablettes et écran PC. http://learn.code.org/
 
+### TouchDevelop
+Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile (iPad, iPhone, Android, PC, Mac, Windows Phone) : https://www.touchdevelop.com/
+
 Jeux video
 ----------
 Jeux qui permettent de programmer un robot pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
@@ -42,9 +45,6 @@ iPad : http://twolivesleft.com/CargoBot/
 
 ### Robozzle
 Web : http://www.robozzle.com/. iPad : http://robozzleapp.com/. Android : https://play.google.com/store/apps/details?id=com.team242.robozzle (RoboZZle Droid) et https://play.google.com/store/apps/details?id=com.midnightvacation.robo (Robot Trainer).
-
-### Touchdevelop
-Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile, https://www.touchdevelop.com/
 
 Electronique
 ------------
