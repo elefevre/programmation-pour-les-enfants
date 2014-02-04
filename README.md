@@ -121,3 +121,7 @@ Apprentissage Javascript en programmant un personnage de jeu de combat. http://j
 
 ###  Squeak: Learn Programming with Robots
 Apprendre la programmation avec des robots. Le livre est en anglais : http://rmod.lille.inria.fr/botsinc; une traduction en français est en cours : https://github.com/janniklaval/botsinc
+
+###  Ruby warrior
+Apprentissage Ruby en programmant un chevalier combattre des montres d'un donjon. https://www.bloc.io/ruby-warrior#/
+
