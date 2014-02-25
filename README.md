@@ -129,4 +129,4 @@ Apprendre la programmation avec des robots. Le livre est en anglais : http://rmo
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
 
 ### Greenfoot
-IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.). http://www.greenfoot.org/
+IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.) ; le but est d'expliquer les concepts d'objets en programmation. http://www.greenfoot.org/
