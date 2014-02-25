@@ -1,7 +1,7 @@
 Initiation à la programmation pour les enfants
 ==============================================
 
-Voici une liste de ressources qui permettent d'initier des enfants, même jeunes, aux principes de la programmation, de la logique, voire de l'électronique.
+Voici une liste de ressources qui permettent d'initier des enfants, même très jeunes, aux principes de la programmation, de la logique, voire de l'électronique.
 
 Si vous modifiez ce fichier, merci de vous assurer qu'il reste facile à imprimer (en particulier les noms des sites doivent être visibles). Un des objectifs de ce document est qu'il soit facilement diffusable en milieu scolaire.
 
@@ -125,4 +125,5 @@ Apprentissage Ruby en programmant un chevalier dans un donjon; tout à fait comm
 ###  Squeak: Learn Programming with Robots
 Apprendre la programmation avec des robots. Le livre est en anglais : http://rmod.lille.inria.fr/botsinc; une traduction en français est en cours : https://github.com/janniklaval/botsinc
 
-
+### Kodu
+Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
