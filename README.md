@@ -120,10 +120,13 @@ Apprentissage Javascript en jouant à un jeu de type Donjons et Dragons. http://
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
 
 ### Ruby Warrior
-Apprentissage Ruby en programmant un chevalier dans un donjon; tout à fait comme JSWarrior. https://www.bloc.io/ruby-warrior#/
+Apprentissage Ruby en programmant un chevalier dans un donjon ; tout à fait comme JSWarrior. https://www.bloc.io/ruby-warrior#/
 
 ###  Squeak: Learn Programming with Robots
 Apprendre la programmation avec des robots. Le livre est en anglais : http://rmod.lille.inria.fr/botsinc; une traduction en français est en cours : https://github.com/janniklaval/botsinc
 
 ### Kodu
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
+
+### Greenfoot
+IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.). http://www.greenfoot.org/
