@@ -15,6 +15,7 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 ### Primo
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
 
+
 Programmation "avec des blocs"
 ------------------------------
 Beaucoup de resources qui présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
@@ -30,6 +31,16 @@ Application Microsoft permettant de s'initier à la programmation de jeux simple
 
 ### Blockly
 Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. https://code.google.com/p/blockly/
+
+Programmation de dessins ou animations
+--------------------------------------
+Il s'agit de reprendre le principe de la tortue du LOGO : donner des instructions pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
+
+### Kojo
+On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
+
+### LiveCodeLab
+Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
 
 Jeux video
 ----------
