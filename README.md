@@ -15,21 +15,25 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 ### Primo
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
 
-Programmation
--------------
+Programmation "avec des blocs"
+------------------------------
+Beaucoup de resources qui présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
 
 ### Scratch
-Un environnement de création pour les enfants qui propose toutes les bases de la programmation. En Français, mais il faut s'avoir lire. Les enfants l'utilisent souvent pour créer des histoires animées. A partir de 8 ans. http://scratch.mit.edu/
+Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées. http://scratch.mit.edu/
 
 ### Hopscotch
-Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A partir de 8 ans. https://www.gethopscotch.com/
+Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
 
 ### TouchDevelop
 Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile (iPad, iPhone, Android, PC, Mac, Windows Phone) : https://www.touchdevelop.com/
 
+### Blockly
+Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. https://code.google.com/p/blockly/
+
 Jeux video
 ----------
-Jeux qui permettent de programmer un robot pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
+Jeux qui consistent à programmer un robot pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
 
 ### Kodable
 iPad : http://www.surfscore.com/
@@ -38,7 +42,7 @@ iPad : http://www.surfscore.com/
 iPad et Android : http://light-bot.com/
 
 ### Cargo Bot
-iPad : http://twolivesleft.com/CargoBot/
+Il s'agit de donner des instructions à un bras manipulateur de caisses dans une usine pour empiler les caisses selon le schéma proposé. iPad : http://twolivesleft.com/CargoBot/
 
 ### Robozzle
 Web : http://www.robozzle.com/. iPad : http://robozzleapp.com/. Android : https://play.google.com/store/apps/details?id=com.team242.robozzle (RoboZZle Droid) et https://play.google.com/store/apps/details?id=com.midnightvacation.robo (Robot Trainer).
