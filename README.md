@@ -82,15 +82,14 @@ Un instituteur américain initie les enfants de maternelle au principe des algor
 Evènements
 ----------
 
-### Coding Goûter
-Des enfants de ~5 à 15 ans qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Cela se passe souvent au Carrefour Numérique à la Villette. Assez irrégulier (tous les deux mois ?) ; il faut suivre les comptes Twitter des animateurs pour savoir quand s'inscrire. A partir de 5 ans. http://ils.sont.la/tags/coding-gouter#
+### Coding Goûter : prochain le 9 mars à Paris
+Des enfants de ~5 à 15 ans qui s'amusent à programmer (avec leurs parents) avec des outils simples comme Scratch ou avec des Makey Makey. Cela se passe souvent au Carrefour Numérique à la Villette, tous les trois mois environ. A partir de 5 ans. http://codinggouter.org/
 
 ### Programatoo
-Des informaticiennes qui organisent des après-midis programmation pour les adolescents, surtout avec Scratch. Semble être surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
+Des informaticiennes qui organisent des après-midis programmation pour les adolescents, surtout avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
 
-### Devoxx4Kids
-Une initiative internationale, que l'on retrouve dans certaines conférences en France.
-A partir de 10 ans.
+### Devoxx4Kids : prochain début avril (pas encore annoncé)
+Une initiative internationale, que l'on retrouve dans certaines conférences en France. A partir de 8 ans. Les parents ne restent pas.
 http://www.devoxx4kids.org/ ou https://plus.google.com/u/0/110682748365732089507/ pour la partie France.
 
 ### CoderDojo
