@@ -24,9 +24,6 @@ Un environnement de création pour les enfants qui propose toutes les bases de l
 ### Hopscotch
 Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A partir de 8 ans. https://www.gethopscotch.com/
 
-### L'heure de code
-Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et d'exercices de programmation ; les textes et les sous-titres sont disponibles en français. Utilisable sur tablettes et écran PC. http://learn.code.org/
-
 ### TouchDevelop
 Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile (iPad, iPhone, Android, PC, Mac, Windows Phone) : https://www.touchdevelop.com/
 
@@ -108,6 +105,14 @@ Une histoire illustrée en anglais pour les enfants qui introduit des principes 
 ### A Robot Story
 Une histoire illustrée en anglais pour apprendre à compter en binaire. 13 pages. A partir de 4 ans ? https://www.kickstarter.com/projects/lisadeluca/a-robot-story-learn-to-count-to-ten-in-binary
 
+
+Cours en ligne
+--------------
+### L'heure de code
+Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et d'exercices de programmation ; les textes et les sous-titres sont disponibles en français. http://learn.code.org/
+
+### Tynker
+Cours payants (quelques dizaines d'euros), en principe à partir de 10 ans, qui mènent à la création de projets, typiquement des jeux. http://www.tynker.com/
 
 Jeunes adultes
 --------------
