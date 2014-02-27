@@ -130,3 +130,6 @@ Environnement graphique de programmation de jeux pour Windows et XBox. A partir 
 
 ### Greenfoot
 IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.) ; le but est d'expliquer les concepts d'objets en programmation. http://www.greenfoot.org/
+
+### Erase All Kittens
+Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez amusants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
