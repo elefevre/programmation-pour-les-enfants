@@ -133,3 +133,6 @@ IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont 
 
 ### Erase All Kittens
 Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez amusants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
+
+## Code Monster
+Initiation à la programmation JavaScript, avec des étapes encore plus simples que dans CodeCombat ou JSWarrior. Textes simples, en anglais. http://www.crunchzilla.com/code-monster
