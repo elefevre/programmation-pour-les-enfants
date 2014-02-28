@@ -168,3 +168,5 @@ Programmation des robots avec un dialecte de Smalltalk. Le livre est en anglais,
 ### Greenfoot
 IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.) ; le but est d'expliquer les concepts d'objets en programmation. http://www.greenfoot.org/
 
+### RUR-PLE
+Un IDE simplifié pour piloter un robot en langage Python, un peu comme les environnements de type CodeCombat, mais avec en insistant sur les bonnes pratiques de programmation. Les tutoriaux semblent bien faits. Ne semble plus maintenu depuis plusieurs années. http://rur-ple.sourceforge.net/
