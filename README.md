@@ -25,12 +25,12 @@ Même principe que les autres. Utilisation plutôt en ligne, même si on peut t�
 ### Kodu
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
 
-Programmation de dessins ou animations
+Langages de programmation pour les enfants
 --------------------------------------
-Il s'agit de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
+Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
 
 ### Kojo
-On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
+On voit bien la méthaphore de la tortue. Pourrait être plus facile à faire marcher. http://kogics.net/
 
 ### LiveCodeLab
 Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
