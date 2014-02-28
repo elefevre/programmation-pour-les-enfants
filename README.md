@@ -153,6 +153,12 @@ Apprentissage Javascript en programmant un personnage de jeu de combat. http://j
 ### Ruby Warrior
 Apprentissage Ruby en programmant un chevalier dans un donjon ; tout à fait comme JSWarrior. https://www.bloc.io/ruby-warrior#/
 
+### KidsRuby
+Environnement de programmation Ruby qui donne des retours graphiques rapides aux instructions. http://www.kidsruby.com/
+
+### Hackety Hack
+L'inspiration de KidsRuby. Semble n'être disponible que sur Mac OS X. http://hackety.com/
+
 ### Squeak: Learn Programming with Robots
 Programmation des robots avec un dialecte de Smalltalk. Le livre est en anglais, bien qu'écrit par un Français : http://rmod.lille.inria.fr/botsinc ; une traduction en français est en cours : https://github.com/janniklaval/botsinc
 
