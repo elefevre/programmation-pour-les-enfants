@@ -117,14 +117,16 @@ Livres / e-books
 Pour accompagner ses enfants à la découverte de la programmation.
 
 ### Programming For Kids
-En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb.
-Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (en français - en cours de traduction : https://leanpub.com/laprogrammationpourlesenfants, en néerlandais - en cours de traduction : https://leanpub.com/programmerenvoorKinderen)
+En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb. Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (traduction française en cours : https://leanpub.com/laprogrammationpourlesenfants, en néerlandais : https://leanpub.com/programmerenvoorKinderen)
 
 ### Hello Ruby
 Une histoire illustrée en anglais pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
 
 ### A Robot Story
 Une histoire illustrée en anglais pour apprendre à compter en binaire. 13 pages. A partir de 4 ans ? https://www.kickstarter.com/projects/lisadeluca/a-robot-story-learn-to-count-to-ten-in-binary
+
+### Squeak: Learn Programming with Robots
+Programmation des robots avec un dialecte de Smalltalk. Le livre est en anglais, bien qu'écrit par un Français : http://rmod.lille.inria.fr/botsinc ; une traduction en français est en cours : https://github.com/janniklaval/botsinc
 
 
 Cours en ligne
@@ -139,12 +141,12 @@ Cours payants (quelques dizaines d'euros), en principe à partir de 10 ans, qui 
 
 Initiation à des langages professionnels
 --------------
-Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Plutôt à partir de 14-15 ans.
+Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Il faut toujours savoir bien lire l'anglais. Plutôt à partir de 14-15 ans.
 
 ### Erase All Kittens
 Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez amusants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
 
-## Code Monster
+### Code Monster
 Initiation à la programmation JavaScript, avec des étapes très simples. Textes en anglais, faciles à comprendre. http://www.crunchzilla.com/code-monster
 
 ### CodeCombat
@@ -161,9 +163,6 @@ Environnement de programmation Ruby qui donne des retours graphiques rapides aux
 
 ### Hackety Hack
 L'inspiration de KidsRuby. Semble n'être disponible que sur Mac OS X. http://hackety.com/
-
-### Squeak: Learn Programming with Robots
-Programmation des robots avec un dialecte de Smalltalk. Le livre est en anglais, bien qu'écrit par un Français : http://rmod.lille.inria.fr/botsinc ; une traduction en français est en cours : https://github.com/janniklaval/botsinc
 
 ### Greenfoot
 IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.) ; le but est d'expliquer les concepts d'objets en programmation. http://www.greenfoot.org/
