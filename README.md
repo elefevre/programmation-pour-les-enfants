@@ -43,13 +43,16 @@ Jeux qui consistent à donner des instructions à un robot pour parcourir un lab
 iPad : http://www.surfscore.com/
 
 ### Light-bot
-iPad et Android : http://light-bot.com/
-
-### Cargo Bot
-Il s'agit de donner des instructions à un bras manipulateur de caisses dans une usine pour empiler les caisses selon l'objectif proposé. iPad : http://twolivesleft.com/CargoBot/
+iPhone/iPad et Android : http://light-bot.com/
 
 ### Robozzle
 Web : http://www.robozzle.com/. iPad : http://robozzleapp.com/. Android : https://play.google.com/store/apps/details?id=com.team242.robozzle (RoboZZle Droid) et https://play.google.com/store/apps/details?id=com.midnightvacation.robo (Robot Trainer).
+
+### Robo Logic
+iPhone/iPad : http://www.digitalsirup.com/apps/app_robologic2hd.html
+
+### Cargo Bot
+Il s'agit de donner des instructions à un bras manipulateur de caisses dans une usine pour empiler les caisses selon l'objectif proposé. Le principe est le même que pour les autres jeux. iPad : http://twolivesleft.com/CargoBot/
 
 Jouets programmables
 --------------------
