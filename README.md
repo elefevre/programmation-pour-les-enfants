@@ -88,12 +88,16 @@ Kits de modules, y compris portes logiques, permettant des constructions de type
 
 Activités en groupe
 -------------------
+...et sans ordinateur.
 
 ### Robot Turtles
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte préparer le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
 ### Dr Techniko
 "Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/
+
+### My Robotic Friends
+Il s'agit de donner des instructions (pour construire un pyramide avec des gobelets) à ses amis, comme si on programmait un ordinateur. http://csedweek.org/unplugged/thinkersmith
 
 ### Introducing algorithms to children in reception class
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
