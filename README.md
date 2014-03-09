@@ -29,6 +29,9 @@ Même principe que les autres. Utilisation plutôt en ligne, même si on peut t�
 ### Kodu
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
 
+### AgentCubes
+Un environnement pour programmer des jeux. HTML5 Les "agents" reçoivent des événements auxquels ils doivent réagir, de façon très similaire à un programme professionnel. A partir de 10 ans. http://www.agentsheets.com/agentcubes/
+
 Langages de programmation simplifiés
 --------------------------------------
 Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
