@@ -36,17 +36,17 @@ Langages de programmation simplifiés
 --------------------------------------
 Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
 
-### Algoid
-Un langage et son ide simplifiés fonctionnant sur PC, rPI et Android. Les tutoriels sont en français et en anglais et reprennent du B-A BA jusqu'à la création de jeux vidéos. http://www.algoid.net
-
 ### Kojo
-On voit bien la méthaphore de la tortue. Pourrait être plus facile à faire marcher. http://kogics.net/
+On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
+
+### Algoid
+Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android. Les tutoriels sont disponibles en français et vont des bases à la création de jeux vidéos. http://www.algoid.net
 
 ### LiveCodeLab
 Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
 
 ### RoboMind
-Toujours un robot à déplacer, mais de nombreuses actions semble possible. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
+Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
 
 Jeux de programmation
 ----------
