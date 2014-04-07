@@ -76,6 +76,9 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 ### Primo
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
 
+### Kano
+Un ordinateur en kit, à monter, avec des livrets d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
+
 
 Electronique
 ------------
