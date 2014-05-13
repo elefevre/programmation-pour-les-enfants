@@ -128,8 +128,8 @@ Des enfants de ~5 à 15 ans, et leurs parents, qui s'amusent à programmer avec 
 ### Programatoo
 Des informaticiennes qui organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
 
-### Devoxx4Kids : 5 avril
-Une initiative internationale, que l'on retrouve dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. http://www.devoxx4kids.org/france/
+### Devoxx4Kids
+Une initiative internationale, que l'on retrouve dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Fréquence assez irrégulière pour le moment. http://www.devoxx4kids.org/france/
 
 ### CoderDojo
 Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris et banlieue. A partir de 7 ans. http://coderdojo.com/
