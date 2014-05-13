@@ -104,7 +104,7 @@ Activités en groupe
 ...et sans ordinateur.
 
 ### Robot Turtles
-Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte préparer le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
+Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
 ### Code Monkey Island
 Jeu de société où l'enfant "programme" des singes sur un plateau de jeux. Plus sophistiqué que Robot Turtles (code conditionnel, intéraction avec les autres joueurs) et plutôt adapté aux plus de 7 ans. Il faut bien lire l'anglais. https://www.kickstarter.com/projects/rajsidhu/code-monkey-island-making-programming-childs-play/
