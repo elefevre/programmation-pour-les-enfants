@@ -67,6 +67,9 @@ iPhone/iPad : http://www.digitalsirup.com/apps/app_robologic2hd.html
 ### Cargo Bot
 Il s'agit de donner des instructions à un bras manipulateur de caisses dans une usine pour empiler les caisses selon l'objectif proposé. Le principe est le même que pour les autres jeux. iPad : http://twolivesleft.com/CargoBot/
 
+### Codemancer
+Il faut donner des instructions à une apprentie magicienne. Semble plus élaboré (et plus difficile) que les jeux de type labyrinthe. En cours de développement à la date du 11 juin 2014. A partir de 9 ans ; il faut savoir lire l'anglais. http://codemancergame.com/
+
 Jouets programmables
 --------------------
 
