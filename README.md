@@ -55,6 +55,9 @@ Jeux de programmation
 ----------
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
 
+### Bee-Bot
+Le plus simple de tous ; inspiré du robot (cf. ailleurs sur cette page). Pour iPad : http://www.tts-group.co.uk/BeeBotApp
+
 ### Kodable
 iPad : http://www.surfscore.com/
 
@@ -77,7 +80,7 @@ Jouets programmables
 --------------------
 
 ### Bee-Bot
-Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. http://www.bee-bot.us/
+Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
 
 ### Primo
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
@@ -129,10 +132,10 @@ Evènements
 ----------
 
 ### Coding Goûter
-Des enfants de ~5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. Cela se passe souvent au Carrefour Numérique à la Villette, tous les trois mois environ. A partir de 5 ans. http://codinggouter.org/
+Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. Cela se passe souvent au Carrefour Numérique à la Villette, tous les trois mois environ. A partir de 5 ans. http://codinggouter.org/
 
 ### Programatoo
-Des informaticiennes qui organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
+Des informaticiennes organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
 
 ### Devoxx4Kids
 Une initiative internationale, que l'on retrouve dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Fréquence assez irrégulière pour le moment. http://www.devoxx4kids.org/france/
