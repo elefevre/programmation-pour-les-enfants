@@ -186,6 +186,9 @@ Apprentissage Javascript en jouant à un jeu de type Donjons et Dragons. http://
 ### JSWarrior
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
 
+### JS Robot
+Apprentissage Javascript : on doit compléter du code JavaScript pour permettre à un personnage de sortir d'un labyrinthe. http://jsrobot.tk/
+
 ### Ruby Warrior
 Apprentissage Ruby en programmant un chevalier dans un donjon ; tout à fait comme JSWarrior. https://www.bloc.io/ruby-warrior#/
 
