@@ -52,7 +52,7 @@ Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://l
 Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
 
 ### MicroAlg
-Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](###Blockly). http://microalg.info/
+Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](#blockly). http://microalg.info/
 
 Jeux video
 ----------
