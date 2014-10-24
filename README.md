@@ -51,7 +51,10 @@ Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://l
 ### RoboMind
 Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
 
-Jeux de programmation
+### MicroAlg
+Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](###Blockly). http://microalg.info/
+
+Jeux video
 ----------
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
 
