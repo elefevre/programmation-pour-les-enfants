@@ -27,6 +27,9 @@ Sur iPad, similaire à Scratch en plus simple. Il faut savoir lire l'anglais. A 
 ### L'heure de code
 Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et d'exercices de programmation ; les textes et les sous-titres sont disponibles en français. Utilisable sur tablettes et écran PC. http://learn.code.org/
 
+### Micro Alg
+MicroAlg est un langage de programmation en français dédié à l’algorithmique et à son enseignement. http://microalg.info/
+
 Jeux video
 ----------
 Jeux qui permettent de programmer un objet pour le faire sortir d'un labyrinthe. En général, à partir de 8 ans.
