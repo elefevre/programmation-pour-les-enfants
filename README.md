@@ -147,7 +147,7 @@ Une initiative internationale, que l'on retrouve dans certaines conférences en 
 Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris et banlieue. A partir de 7 ans. http://coderdojo.com/
 
 ### Le Castor Informatique
-Un concours d'informatique dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A partir de la 6ème, soit 11 ans. http://castor-informatique.fr/
+Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre. A partir de la 6ème, soit 11 ans. http://castor-informatique.fr/
 
 Livres / e-books
 ----------------
