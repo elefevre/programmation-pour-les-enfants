@@ -213,5 +213,8 @@ IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont 
 ### RUR-PLE
 Un IDE simplifié pour piloter un robot en langage Python, un peu comme les environnements de type CodeCombat, mais avec en insistant sur les bonnes pratiques de programmation. Les tutoriaux semblent bien faits. Ne semble plus maintenu depuis plusieurs années. http://rur-ple.sourceforge.net/
 
+### Snake Wrangling for Kids/Domptage de serpent pour les enfants
+Un livre pour s'initier à la programmation avec le langage Python. Le livre a été écrit en anglais, mais une traduction en français est disponible. http://www.briggs.net.nz/snake-wrangling-for-kids.html
+
 ### MakeGamesWithUs
 Mélange de cours en ligne et d'accompagnement à la programmation de code Objective-C, avec l'objectif de publier un jeu sur un iPhone. https://www.makegameswith.us/build-an-ios-game-in-your-browser/
