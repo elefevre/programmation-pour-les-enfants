@@ -122,7 +122,7 @@ Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représ
 Jeu de société où l'enfant "programme" des singes sur un plateau de jeux. Plus sophistiqué que Robot Turtles (code conditionnel, intéraction avec les autres joueurs) et plutôt adapté aux plus de 7 ans. Il faut bien lire l'anglais. http://codemonkeyplanet.com/
 
 ### Dr Techniko
-"Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/
+"Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/ (en Français sur https://benjiscorner.wordpress.com/2015/01/13/comment-apprendre-a-votre-robot-ou-la-programmation-en-samusant/)
 
 ### My Robotic Friends
 Il s'agit de donner des instructions (pour construire un pyramide avec des gobelets) à ses amis, comme si on programmait un ordinateur. http://csedweek.org/unplugged/thinkersmith
