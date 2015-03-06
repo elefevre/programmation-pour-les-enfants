@@ -82,6 +82,8 @@ Il faut donner des instructions à une apprentie magicienne. Semble plus élabor
 Jouets programmables
 --------------------
 
+Il s'agit en général d'un petit robot que l'on peut programmer de façon simplifiée. Souvent assez coûteux (100 euros et plus).
+
 ### Bee-Bot
 Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
 
