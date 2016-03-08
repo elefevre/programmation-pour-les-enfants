@@ -116,6 +116,9 @@ Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suff
 ### Logiblocs
 Kits de modules, y compris portes logiques, permettant des constructions de type détecteur de présence, voire petit robot. Facilement disponible en grandes surfaces en France. A partir de 7 ans. http://www.logiblocs.com/
 
+### MakerBloks
+Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
+
 Activités en groupe
 -------------------
 ...et sans ordinateur.
