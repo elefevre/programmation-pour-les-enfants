@@ -57,6 +57,9 @@ Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. L
 ### MicroAlg
 Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](#blockly). http://microalg.info/
 
+### Lego WeDo 2.0
+Permet de s'initier aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, de capteurs et moteur. La programmation se fait via une interface disponible sous Mac, Windows, Linux et tablette. https://education.lego.com/en-gb/lesi/elementary/wedo-2
+
 Jeux video
 ----------
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
@@ -115,6 +118,9 @@ Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suff
 
 ### Logiblocs
 Kits de modules, y compris portes logiques, permettant des constructions de type détecteur de présence, voire petit robot. Facilement disponible en grandes surfaces en France. A partir de 7 ans. http://www.logiblocs.com/
+
+### MakerBloks
+Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
 
 Activités en groupe
 -------------------
