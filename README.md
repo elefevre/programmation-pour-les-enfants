@@ -221,8 +221,8 @@ L'inspiration de KidsRuby. Semble n'être disponible que sur Mac OS X. http://ha
 ### Greenfoot
 IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.) ; le but est d'expliquer les concepts d'objets en programmation. http://www.greenfoot.org/
 
-### RUR-PLE
-Un IDE simplifié pour piloter un robot en langage Python, un peu comme les environnements de type CodeCombat, mais avec en insistant sur les bonnes pratiques de programmation. Les tutoriaux semblent bien faits. Ne semble plus maintenu depuis plusieurs années. http://rur-ple.sourceforge.net/
+### Reeborg's World
+Un IDE simplifié en ligne pour piloter un robot en langage Python (et Javascript) avec du code source ou avec des blocs. Dans l'esprit des environnements de type CodeCombat. Les tutoriaux semblent bien faits. http://reeborg.ca/
 
 ### Snake Wrangling for Kids/Domptage de serpent pour les enfants
 Un livre pour s'initier à la programmation avec le langage Python. Le livre a été écrit en anglais, mais une traduction en français est disponible. A partir de 8 ans. http://www.briggs.net.nz/snake-wrangling-for-kids.html
