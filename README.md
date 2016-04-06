@@ -99,6 +99,8 @@ Un petit robot programmable à distance. Les instructions sont rendues tangibles
 ### Kano
 Un ordinateur en kit, à monter, avec des livrets d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
 
+### Thymio
+Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (capteur/actionneur, scratch, et langage proche du python) https://www.thymio.org/
 
 Electronique
 ------------
