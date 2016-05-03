@@ -144,14 +144,17 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
 
-Evènements
-----------
+Evènements/ateliers
+-------------------
 
 ### Coding Goûter
 Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. Cela se passe souvent au Carrefour Numérique à la Villette, tous les trois mois environ. A partir de 5 ans. http://codinggouter.org/
 
 ### Programatoo
 Des informaticiennes organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
+
+### Magic Makers
+Ateliers et stages vacances sur Paris et environs, basés sur Scratch, voire Python et Arduino pour les plus grands. De 6 à 15 ans. http://magicmakers.fr/
 
 ### Devoxx4Kids
 Une initiative internationale, que l'on retrouve aussi dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Fréquence assez irrégulière. http://www.devoxx4kids.org/france/
@@ -162,7 +165,7 @@ Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris 
 ### Le Castor Informatique
 Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre; près de 200 000 élèves participent, à partir de la 6ème, soit 11 ans. http://castor-informatique.fr/
 
-Livres / e-books
+Livres/e-books
 ----------------
 Pour accompagner ses enfants à la découverte de la programmation.
 
