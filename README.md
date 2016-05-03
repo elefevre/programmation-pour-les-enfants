@@ -57,9 +57,6 @@ Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. L
 ### MicroAlg
 Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](#blockly). http://microalg.info/
 
-### Lego WeDo 2.0
-Permet de s'initier aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, de capteurs et moteur. La programmation se fait via une interface disponible sous Mac, Windows, Linux et tablette. https://education.lego.com/en-gb/lesi/elementary/wedo-2
-
 Jeux video
 ----------
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
@@ -100,7 +97,10 @@ Un petit robot programmable à distance. Les instructions sont rendues tangibles
 Un ordinateur en kit, à monter, avec des livrets d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
 
 ### Thymio
-Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (capteur/actionneur, scratch, et langage proche du python) https://www.thymio.org/
+Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (simplifiée avec des blocs sans texte, Scratch et langage proche du python). Vraiment très ludique. https://www.thymio.org/
+
+### Lego WeDo 2.0
+Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble difficile à trouver en France. https://education.lego.com/en-gb/lesi/elementary/wedo-2
 
 Electronique
 ------------
@@ -109,11 +109,11 @@ Electronique
 Un mini "robot", fabriqué à partir d'une brosse à dent, qui bouge tout seul. Aucune logique, mais facile d'approche pour des jeunes enfants. A partir de 5 ans. http://www.evilmadscientist.com/2007/bristlebot-a-tiny-directional-vibrobot/
 
 ### Makey Makey
-Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau) à un ordinateur.
+Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau, le corps humain) à un ordinateur.
 A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
 ### Dominoux
-"Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler soi-même. A partir de 4 ans (une fois assemblé !). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
+"Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler/souder soi-même. A partir de 4 ans (une fois assemblé). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
 
 ### littleBits
 Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suffit juste de connecter des composants magnetisés. Le "Base Kit" contient 10 composants, y compris batterie, moteur, détecteur de luminosité, buzzer et diodes. A partir de 8 ans. http://littlebits.cc
@@ -154,7 +154,7 @@ Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec d
 Des informaticiennes organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
 
 ### Devoxx4Kids
-Une initiative internationale, que l'on retrouve dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Fréquence assez irrégulière pour le moment. http://www.devoxx4kids.org/france/
+Une initiative internationale, que l'on retrouve aussi dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Fréquence assez irrégulière. http://www.devoxx4kids.org/france/
 
 ### CoderDojo
 Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris et banlieue. A partir de 7 ans. http://coderdojo.com/
