@@ -90,8 +90,8 @@ Il s'agit en général d'un petit robot que l'on peut programmer de façon simpl
 ### Bee-Bot
 Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
 
-### Primo
-Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièges de bois. A partir de 4 ans. http://primo.io/
+### Cubetto
+Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 4 ans. Cher (> 200 euros). https://www.primotoys.com/
 
 ### Kano
 Un ordinateur en kit, à monter, avec des livrets d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
