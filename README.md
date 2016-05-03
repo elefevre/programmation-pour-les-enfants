@@ -49,7 +49,7 @@ Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android. Les tutorie
 Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
 
 ### Lmfab
-Piano virtuel.Une application qui pousse les enfants à partir de 12 ans à apprendre les boucles en C par la création de piano virtuel. http://www.letime.net/vocale/U_E_D.html
+Une application qui pousse les enfants à partir de 12 ans à apprendre les boucles en C par la création d'un piano virtuel. http://www.letime.net/vocale/U_E_D.html
 
 ### RoboMind
 Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
