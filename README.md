@@ -150,9 +150,6 @@ Evènements/ateliers
 ### Coding Goûter
 Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. http://codinggouter.org/
 
-### Programatoo
-Des informaticiennes organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
-
 ### Magic Makers
 Ateliers et stages vacances sur Paris et environs, basés sur Scratch, voire Python et Arduino pour les plus grands. De 6 à 15 ans. http://magicmakers.fr/
 
