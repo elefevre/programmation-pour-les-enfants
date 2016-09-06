@@ -148,7 +148,7 @@ Evènements/ateliers
 -------------------
 
 ### Coding Goûter
-Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. Cela se passe souvent au Carrefour Numérique à la Villette, tous les trois mois environ. A partir de 5 ans. http://codinggouter.org/
+Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. http://codinggouter.org/
 
 ### Programatoo
 Des informaticiennes organisent des après-midis programmation pour les adolescents, souvent avec Scratch. Surtout présent à Nanterre. A partir de 10 ans. https://plus.google.com/105050554172452836044/
