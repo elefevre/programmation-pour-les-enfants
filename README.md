@@ -87,6 +87,9 @@ Jouets programmables
 
 Il s'agit en général d'un petit robot que l'on peut programmer de façon simplifiée. Souvent assez coûteux (100 euros et plus).
 
+### La Chenille Programmable (Fisher-Price)
+Une chenille-robot composée d'éléments qui déterminent son déplacement (pas de comportement basé sur des conditions). Moins cher que les autres de cette catégorie (~60€) et adapté dès 3 ans. http://www.fisher-price.com/fr_FR/products/La-Chenille-programmable
+
 ### Bee-Bot
 Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
 
