@@ -129,7 +129,7 @@ Ensemble de briques aimentées constituées de composants élémentaires comme d
 
 Activités en groupe
 -------------------
-...et sans ordinateur.
+... et sans ordinateur.
 
 ### Robot Turtles
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
@@ -146,24 +146,26 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 ### Introducing algorithms to children in reception class
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
+### Exact Instructions Challenge
+Un parent demande à ses enfants de lui donner des instructions précises pour préparer un sandwich et les réalise à la lettre. I lfaut s'avoir écrire. https://www.youtube.com/watch?v=cDA3_5982h8
 
 Evènements/ateliers
 -------------------
 
 ### Coding Goûter
-Des enfants de 5 à 15 ans, et leurs parents, qui s'amusent à programmer avec des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. http://codinggouter.org/
+Des enfants de 5 à 15 ans qui s'amusent à programmer avec leurs parents sur des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. http://codinggouter.org/
 
 ### Magic Makers
 Ateliers et stages vacances sur Paris et environs, basés sur Scratch, voire Python et Arduino pour les plus grands. De 6 à 15 ans. http://magicmakers.fr/
 
 ### Devoxx4Kids
-Une initiative internationale, que l'on retrouve aussi dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Fréquence assez irrégulière. http://www.devoxx4kids.org/france/
+Une initiative internationale, que l'on retrouve aussi dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Une fois par an pour Paris, mais aussi ailleurs. http://www.devoxx4kids.org/france/
 
 ### CoderDojo
 Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris et banlieue. A partir de 7 ans. http://coderdojo.com/
 
 ### Le Castor Informatique
-Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre; près de 200 000 élèves participent, à partir de la 6ème, soit 11 ans. http://castor-informatique.fr/
+Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/
 
 Livres/e-books
 ----------------
@@ -200,7 +202,7 @@ Initiation à des langages professionnels
 Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Il faut toujours savoir bien lire l'anglais. Plutôt à partir de 14-15 ans.
 
 ### Erase All Kittens
-Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez amusants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
+Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez plaisants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
 
 ### Code Monster
 Initiation à la programmation JavaScript, avec des étapes très simples. Textes en anglais, faciles à comprendre. http://www.crunchzilla.com/code-monster
