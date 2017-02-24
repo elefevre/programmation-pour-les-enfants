@@ -37,7 +37,8 @@ Jeu astucieux où les blocs sont des vrais blocs en plastique qu'il faut assembl
 
 Langages de programmation simplifiés
 --------------------------------------
-Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
+Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. S
+'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
 
 ### Kojo
 On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
@@ -147,7 +148,7 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
 ### Exact Instructions Challenge
-Un parent demande à ses enfants de lui donner des instructions précises pour préparer un sandwich et les réalise à la lettre. I lfaut s'avoir écrire. https://www.youtube.com/watch?v=cDA3_5982h8
+Un parent demande à ses enfants de lui donner des instructions précises pour préparer un sandwich et les réalise à la lettre. Il faut s'avoir écrire. https://www.youtube.com/watch?v=cDA3_5982h8
 
 Evènements/ateliers
 -------------------
