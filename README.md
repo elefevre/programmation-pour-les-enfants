@@ -69,7 +69,7 @@ Le plus simple de tous ; inspiré du robot (cf. ailleurs sur cette page). Pour i
 iPad : http://www.surfscore.com/
 
 ### Light-bot
-iPhone/iPad et Android ; existe en deux versions, à partir de 4 ans et à partir de 9 ans : http://light-bot.com/
+iPhone/iPad et Android ; existe en deux versions, à partir de 4 ans et à partir de 9 ans : https://lightbot.com
 
 ### Robozzle
 Web : http://www.robozzle.com/. iPad : http://robozzleapp.com/. Android : https://play.google.com/store/apps/details?id=com.team242.robozzle (RoboZZle Droid) et https://play.google.com/store/apps/details?id=com.midnightvacation.robo (Robot Trainer).
