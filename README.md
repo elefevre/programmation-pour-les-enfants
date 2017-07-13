@@ -166,7 +166,7 @@ Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris 
 Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/
 
 ### Activités ou stages
-Plusieurs sociétés proposent des stages en période de vacances ou des activités hebdomadaires, souvent de 6 à 15 ans, à Paris et ailleurs. Par exemple : Magic Makers (http://magicmakers.fr/), CodeCodeCodec (http://codecodecodec.com/), Teen-Code (http://teen-code.com/).
+Plusieurs organisations proposent des stages en période de vacances ou des activités hebdomadaires, souvent de 6 à 15 ans, à Paris et ailleurs. Par exemple : Magic Makers (http://magicmakers.fr/), CodeCodeCodec (http://codecodecodec.com/), Teen-Code (http://teen-code.com/), Tech Kids Academy (http://www.techkidsacademy.com/), Evolukid (http://www.evolukid.com/), Voyageurs du Code (http://voyageursducode.fr/).
 
 ### Fab Lab
 Certains Fab Labs proposent des ateliers de montage électronique, souvent associés à de la programmation, comme Villette Makerz (http://villettemakerz.com/).
