@@ -32,8 +32,8 @@ Environnement graphique de programmation de jeux pour Windows et XBox. A partir 
 ### AgentCubes
 Un environnement pour programmer des jeux. HTML5 Les "agents" reçoivent des événements auxquels ils doivent réagir, de façon très similaire à un programme professionnel. A partir de 10 ans. http://www.agentsheets.com/agentcubes/
 
-### Ludos
-Jeu astucieux où les blocs sont des vrais blocs en plastique qu'il faut assembler pour animer un personnage d'un jeu sur tablette graphique. ~100 €. A partir de 4 ans. http://www.digitaldreamlabs.com/ludos/
+### Puzzlets
+Jeu astucieux où les blocs sont des vrais blocs en plastique qu'il faut assembler pour animer un personnage d'un jeu sur tablette graphique. ~100 €. A partir de 4 ans. http://www.digitaldreamlabs.com/
 
 Langages de programmation simplifiés
 --------------------------------------
