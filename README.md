@@ -160,7 +160,7 @@ Des enfants de 5 à 15 ans qui s'amusent à programmer avec leurs parents sur de
 Une initiative internationale, que l'on retrouve aussi dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Une fois par an pour Paris, mais aussi ailleurs. http://www.devoxx4kids.org/france/
 
 ### CoderDojo
-Une initiative internationale, qu'on retrouve dans 22 pays ; en France à Paris et banlieue. A partir de 7 ans. http://coderdojo.com/
+Une initiative internationale, qu'on retrouve dans 22 pays ; présent à Paris et banlieue. Pas toujours facile de comprendre quand ont lieu les événements. A partir de 7 ans. http://coderdojoparis.com/
 
 ### Le Castor Informatique
 Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/
@@ -172,7 +172,7 @@ Plusieurs organisations proposent des stages en période de vacances ou des acti
 Certains Fab Labs proposent des ateliers de montage électronique, souvent associés à de la programmation, comme Villette Makerz (http://villettemakerz.com/).
 
 ### Bibliothèques municipales
-Ne pas négliger de consulter le programme des activités en bibliothèque. Il y a parfois des ateliers informatiques ou robotiques.
+Ne pas négliger de consulter le programme des activités en bibliothèque municipale. Il y a parfois des ateliers informatique ou robotique.
 
 Livres/e-books
 ----------------
@@ -206,7 +206,7 @@ Support de cours pour les professeurs qui souhaitent enseigner l'informatique à
 
 Initiation à des langages professionnels
 --------------
-Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Il faut toujours savoir bien lire l'anglais. Plutôt à partir de 14-15 ans.
+Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Il faut toujours savoir bien lire l'anglais. Plutôt à partir de 14-15 ans mais il y a des exceptions.
 
 ### Erase All Kittens
 Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez plaisants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
