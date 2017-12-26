@@ -134,9 +134,8 @@ Kits de modules, y compris portes logiques, permettant des constructions de type
 ### MakerBloks
 Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
 
-### POKITTO
-POKITTO est une sorte de Gameboy Do-It-Yourself, que vous pouvez l'assembler et la programmer vous-même.
-Avec Pokitto, vous allez faire vos premiers pas en programmation et en construction électronique. Il sera en vente sur le site www.pokitto.com pour 49$.
+### Pokitto
+Pokitto est une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les cablâges sur une breadboard est intéressant). Annoncée à 50$. https://www.pokitto.com/
 
 Activités en groupe
 -------------------
