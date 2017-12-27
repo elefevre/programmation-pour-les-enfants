@@ -137,6 +137,9 @@ Ensemble de briques aimentées constituées de composants élémentaires comme d
 ### Pokitto
 Pokitto est une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les cablâges sur une breadboard est intéressant). Annoncée à 50$. https://www.pokitto.com/
 
+### Kitco
+Console de jeu portable encore plus limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/
+
 Activités en groupe
 -------------------
 ... et sans ordinateur.
