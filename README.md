@@ -84,10 +84,10 @@ Il s'agit de donner des instructions à un bras manipulateur de caisses dans une
 Il faut donner des instructions à une apprentie magicienne. Semble plus élaboré (et plus difficile) que les jeux de type labyrinthe. En cours de développement à la date du 11 juin 2014. A partir de 9 ans ; il faut savoir lire l'anglais. http://codemancergame.com/
 
 ### Minecraft
-Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. A partir de 8 ans, mais les supports sont en anglais. https://education.minecraft.net/
+Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemble de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
 
 ### Leek Wars
-L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble très progressive. Probablement à partir de 8 ans. https://leekwars.com/
+L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
 
 Jouets programmables
 --------------------
