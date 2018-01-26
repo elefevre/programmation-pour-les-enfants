@@ -24,7 +24,7 @@ Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. h
 Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile (iPad, iPhone, Android, PC, Mac, Windows Phone) : https://www.touchdevelop.com/
 
 ### Blockly
-Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. https://developers.google.com/blockly/
+Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/?lang=fr.
 
 ### Kodu
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
@@ -84,7 +84,7 @@ Il s'agit de donner des instructions à un bras manipulateur de caisses dans une
 Il faut donner des instructions à une apprentie magicienne. Semble plus élaboré (et plus difficile) que les jeux de type labyrinthe. En cours de développement à la date du 11 juin 2014. A partir de 9 ans ; il faut savoir lire l'anglais. http://codemancergame.com/
 
 ### Minecraft
-Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemble de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
+Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
 
 ### Leek Wars
 L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
