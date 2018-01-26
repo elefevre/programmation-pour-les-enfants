@@ -112,8 +112,11 @@ Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'init
 ### Lego WeDo 2.0
 Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
 
-### Robots Dot, Dash et Cue
+### Dot, Dash et Cue
 Robots programmables. Certains sont prévus pour enfants à partir de 6 ans, d'autres à partir de 11 ans. Le kit le plus simple est à ~80€. https://www.makewonder.com/
+
+### Cozmo
+Un robot à programmer, pour enfant à partir de 12 ans. Kit débutant à partir de 180€. https://www.anki.com/fr-fr/
 
 Electronique
 ------------
