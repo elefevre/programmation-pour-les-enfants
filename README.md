@@ -104,13 +104,16 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 4 ans. Cher (> 200 euros). https://www.primotoys.com/
 
 ### Kano
-Un ordinateur en kit, à monter, avec des livrets d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
+Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
 
 ### Thymio
 Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (simplifiée avec des blocs sans texte, Scratch et langage proche du python). Vraiment très ludique. https://www.thymio.org/
 
 ### Lego WeDo 2.0
-Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble difficile à trouver en France. https://education.lego.com/en-gb/lesi/elementary/wedo-2
+Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
+
+### Robots Dot, Dash et Cue
+Robots programmables. Certains sont prévus pour enfants à partir de 6 ans, d'autres à partir de 11 ans. Le kit le plus simple est à ~80€. https://www.makewonder.com/
 
 Electronique
 ------------
@@ -250,7 +253,7 @@ IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont 
 ### Reeborg's World
 Un IDE simplifié en ligne pour piloter un robot en langage Python (et Javascript) avec du code source ou avec des blocs. Dans l'esprit des environnements de type CodeCombat. Les tutoriaux semblent bien faits. http://reeborg.ca/
 
-### Snake Wrangling for Kids/Domptage de serpent pour les enfants
+### Domptage de serpent pour les enfants
 Un livre pour s'initier à la programmation avec le langage Python. Le livre a été écrit en anglais, mais une traduction en français est disponible. A partir de 8 ans. http://www.briggs.net.nz/snake-wrangling-for-kids.html
 
 ### MakeGamesWithUs
