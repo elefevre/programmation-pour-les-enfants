@@ -104,7 +104,7 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 4 ans. Cher (> 200 euros). https://www.primotoys.com/
 
 ### Kano
-Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation. À partir de 6 ans. http://get.kano.me/
+Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation ; le système d'exploitation semble très bien fait (contient des jeux qui initient aux composants d'un ordinateur). Pour 6 ans et plus. A partir de 200€. http://get.kano.me/
 
 ### Thymio
 Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (simplifiée avec des blocs sans texte, Scratch et langage proche du python). Vraiment très ludique. https://www.thymio.org/
