@@ -146,6 +146,22 @@ Pokitto est une petite console de jeu portable, type Gameboy, à assembler et pr
 ### Kitco
 Console de jeu portable encore plus limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/
 
+Environnements créatifs
+-----------------------
+Il s'agit d'outils permettant d'abord d'être créatif. Les principes de programmation peuvent intervenir assez vites, selon les outils.
+
+### Twinery
+C'est un environnement de création de littérature intéractive, comme il en existe de nombreux. La littérature intéractive a été un type de jeux vidéo au début des années 1980, très proche des "livres dont vous êtes le héros". Le site Twinery (qui utilise le moteur Twine) permet de créer très simplement une histoire, avec des choix proposés à l'utilisateur. Il est assez simple d'y ajouter plus d'intéraction par la programmation d'une demande de nom de l'utilisateur, de la possibilité de ramasser des pièces d'or, etc. A partir de 8 ans (testé auprès d'enfants en CE2). http://twinery.org/
+
+### Sonic Pi
+Le créateur de Sonic Pi a voulu créer un environnement d'initiation à la programmation par la manipulation d'un synthétiseur. Il s'en sert maintenant pour faire des spectacles. Le tutoriel a été traduit en français. A partir de 10 ans. https://sonic-pi.net/
+
+### Processing
+Il s'agit de programmer des images, avec de l'animation. Est utilisé pour des installations artistiques. Peut-être le plus complexe à aborder dans cette catégorie. https://processing.org/
+
+### Paysage
+Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage).
+
 Activités en groupe
 -------------------
 ... et sans ordinateur.
