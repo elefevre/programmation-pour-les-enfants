@@ -36,8 +36,7 @@ Jeu astucieux où les blocs sont des vrais blocs en plastique qu'il faut assembl
 
 Langages de programmation simplifiés
 --------------------------------------
-Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. S
-'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
+Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
 
 ### Kojo
 On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
