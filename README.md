@@ -14,7 +14,7 @@ Beaucoup de resources qui présentent un programme sous la forme de blocs logiqu
 Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. Scratch s'adresse aux enfants qui savent lire, mais il existe une version simplifiée à partir de 5 ans (https://www.scratchjr.org/). Pour la version classique, voir http://scratch.mit.edu/.
 
 ### Looking Glass
-Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées. https://lookingglass.wustl.edu/
+Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées. A partir de 10 ans. https://lookingglass.wustl.edu/
 
 ### Hopscotch
 Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
@@ -33,6 +33,7 @@ Un environnement pour programmer des jeux. HTML5 Les "agents" reçoivent des év
 
 ### Puzzlets
 Jeu astucieux où les blocs sont des vrais blocs en plastique qu'il faut assembler pour animer un personnage d'un jeu sur tablette graphique. ~100 €. A partir de 4 ans. http://www.digitaldreamlabs.com/
+
 
 Langages de programmation simplifiés
 --------------------------------------
@@ -55,6 +56,7 @@ Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. L
 
 ### MicroAlg
 Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](#blockly). http://microalg.info/
+
 
 Jeux video
 ----------
@@ -87,6 +89,7 @@ Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. L
 ### Leek Wars
 L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
 
+
 Jouets programmables
 --------------------
 
@@ -116,6 +119,7 @@ Robots programmables. Certains sont prévus pour enfants à partir de 6 ans, d'a
 ### Cozmo
 Un robot à programmer, pour enfant à partir de 12 ans. Kit débutant à partir de 180€. https://www.anki.com/fr-fr/
 
+
 Electronique
 ------------
 
@@ -144,6 +148,7 @@ Pokitto est une petite console de jeu portable, type Gameboy, à assembler et pr
 ### Kitco
 Console de jeu portable encore plus limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/
 
+
 Environnements créatifs
 -----------------------
 Il s'agit d'outils permettant d'abord d'être créatif. Les principes de programmation peuvent intervenir assez vites, selon les outils.
@@ -159,6 +164,7 @@ Il s'agit de programmer des images, avec de l'animation. Est utilisé pour des i
 
 ### Paysage
 Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage).
+
 
 Activités en groupe
 -------------------
@@ -185,6 +191,7 @@ Un instituteur américain initie les enfants de maternelle au principe des algor
 ### Exact Instructions Challenge
 Un parent demande à ses enfants de lui donner des instructions précises pour préparer un sandwich et les réalise à la lettre. Il faut s'avoir écrire. https://www.youtube.com/watch?v=cDA3_5982h8
 
+
 Evènements/ateliers
 -------------------
 
@@ -209,6 +216,7 @@ Certains Fab Labs proposent des ateliers de montage électronique, souvent assoc
 ### Bibliothèques municipales
 Ne pas négliger de consulter le programme des activités en bibliothèque municipale. Il y a parfois des ateliers informatique ou robotique.
 
+
 Livres/e-books
 ----------------
 Pour accompagner ses enfants à la découverte de la programmation.
@@ -217,7 +225,7 @@ Pour accompagner ses enfants à la découverte de la programmation.
 En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb. Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (traduction française en cours : https://leanpub.com/laprogrammationpourlesenfants, en néerlandais : https://leanpub.com/programmerenvoorKinderen)
 
 ### Hello Ruby
-Une histoire illustrée en anglais pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
+Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
 
 ### A Robot Story
 Une histoire illustrée en anglais pour apprendre à compter en binaire. 13 pages. A partir de 4 ans ? https://www.kickstarter.com/projects/lisadeluca/a-robot-story-learn-to-count-to-ten-in-binary
@@ -236,8 +244,6 @@ Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et
 ### Tynker
 Cours payants (quelques dizaines d'euros), en principe à partir de 10 ans, qui mènent à la création de projets, typiquement des jeux. http://www.tynker.com/
 
-### CS Unplugged en français
-Support de cours pour les professeurs qui souhaitent enseigner l'informatique à l'école. Le site et le livre papier sont en anglais (http://csunplugged.org/), mais il existe une traduction en français téléchargeable. http://csunplugged.org/sites/default/files/books/CS_Unplugged-fr.pdf
 
 Initiation à des langages professionnels
 --------------
