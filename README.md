@@ -166,6 +166,9 @@ Activités en groupe
 -------------------
 ... et sans ordinateur.
 
+### CS Unplugged
+Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/ (il existe un PDF en français du livre : https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/).
+
 ### Robot Turtles
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
