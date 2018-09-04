@@ -11,11 +11,10 @@ Programmation "avec des blocs"
 Beaucoup de resources qui présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
 
 ### Scratch
-Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. http://scratch.mit.edu/
+Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. Scratch s'adresse aux enfants qui savent lire, mais il existe une version simplifiée à partir de 5 ans (https://www.scratchjr.org/). Pour la version classique, voir http://scratch.mit.edu/.
 
 ### Looking Glass
-Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées.
-https://lookingglass.wustl.edu/
+Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées. https://lookingglass.wustl.edu/
 
 ### Hopscotch
 Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
