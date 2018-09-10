@@ -204,6 +204,9 @@ Une initiative internationale, que l'on retrouve aussi dans certaines conférenc
 ### CoderDojo
 Une initiative internationale, qu'on retrouve dans 22 pays ; présent à Paris et banlieue. Pas toujours facile de comprendre quand ont lieu les événements. A partir de 7 ans. http://coderdojoparis.com/
 
+### Maker Faire
+Un salon annuel où des particuliers (et des professionnels) montrent leurs réalisations. Les thèmes sont variés, mais il y a de nombreux stands qui parlent d'informatique ou électronique. Plusieurs proposent des ateliers pour les enfants. Il y a souvent une journée dédiée aux écoles. Très inspirant. http://france.makerfaire.com/
+
 ### Le Castor Informatique
 Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/
 
