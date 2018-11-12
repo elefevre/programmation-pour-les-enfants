@@ -86,9 +86,6 @@ Il faut donner des instructions à une apprentie magicienne. Semble plus élabor
 ### Minecraft
 Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
 
-### Leek Wars
-L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
-
 
 Jouets programmables
 --------------------
@@ -264,6 +261,9 @@ Apprentissage Javascript en jouant à un jeu de type Donjons et Dragons. http://
 
 ### JSWarrior
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
+
+### Leek Wars
+L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
 
 ### JS Robot
 Apprentissage Javascript : on doit compléter du code JavaScript pour permettre à un personnage de sortir d'un labyrinthe. http://jsrobot.tk/
