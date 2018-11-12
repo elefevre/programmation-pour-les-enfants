@@ -209,7 +209,7 @@ Une initiative internationale, qu'on retrouve dans 22 pays ; présent à Paris e
 Un salon annuel où des particuliers (et des professionnels) montrent leurs réalisations. Les thèmes sont variés, mais il y a de nombreux stands qui parlent d'informatique ou électronique. Plusieurs proposent des ateliers pour les enfants. Il y a souvent une journée dédiée aux écoles. Très inspirant. http://france.makerfaire.com/
 
 ### Le Castor Informatique
-Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques (http://www.mathkang.org/). Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/
+Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques. Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/. Il existe aussi un concours plus orienté vers la programmation : http://algorea.org/.
 
 ### Activités ou stages
 Plusieurs organisations proposent des stages en période de vacances ou des activités hebdomadaires, souvent de 6 à 15 ans, à Paris et ailleurs. Par exemple : Magic Makers (http://magicmakers.fr/), CodeCodeCodec (http://codecodecodec.com/), Teen-Code (http://teen-code.com/), Tech Kids Academy (http://www.techkidsacademy.com/), Evolukid (http://www.evolukid.com/), Voyageurs du Code (http://voyageursducode.fr/), l'Atelier-Goûter du Code (http://www.ateliergouterducode.org/).
