@@ -163,7 +163,7 @@ Le créateur de Sonic Pi a voulu créer un environnement d'initiation à la prog
 Il s'agit de programmer des images, avec de l'animation. Est utilisé pour des installations artistiques. Peut-être le plus complexe à aborder dans cette catégorie. https://processing.org/
 
 ### Paysage
-Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage).
+Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage ; la version simplifiée est sur https://www.paysage.xyz/workshop/creature).
 
 
 Activités en groupe
