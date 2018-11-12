@@ -166,18 +166,22 @@ Il s'agit de programmer des images, avec de l'animation. Est utilisé pour des i
 Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage ; la version simplifiée est sur https://www.paysage.xyz/workshop/creature).
 
 
-Activités en groupe
+Jeux de société
 -------------------
-... et sans ordinateur.
-
-### CS Unplugged
-Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/ (il existe un PDF en français du livre : https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/).
 
 ### Robot Turtles
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
 ### Code Monkey Island
 Jeu de société où l'enfant "programme" des singes sur un plateau de jeux. Plus sophistiqué que Robot Turtles (code conditionnel, intéraction avec les autres joueurs) et plutôt adapté aux plus de 7 ans. Il faut bien lire l'anglais. http://codemonkeyplanet.com/
+
+
+Activités en groupe
+-------------------
+... et sans ordinateur. Bien adaptés au système éducatif.
+
+### CS Unplugged
+Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/.
 
 ### Dr Techniko
 "Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/ (en Français sur https://benjiscorner.wordpress.com/2015/01/13/comment-apprendre-a-votre-robot-ou-la-programmation-en-samusant/)
@@ -187,9 +191,6 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 
 ### Introducing algorithms to children in reception class
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
-
-### Exact Instructions Challenge
-Un parent demande à ses enfants de lui donner des instructions précises pour préparer un sandwich et les réalise à la lettre. Il faut s'avoir écrire. https://www.youtube.com/watch?v=cDA3_5982h8
 
 
 Evènements/ateliers
