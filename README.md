@@ -104,14 +104,18 @@ Un petit robot programmable à distance. Les instructions sont rendues tangibles
 ### Matatalab
 Encore un petit robot programmable à distance, similaire à Cubetto, avec des pièces de plastique qui représentent les instructions demandées. Semble plus complet et moins cher que Cubetto. Dès 3 ans. A partir de 160$. https://www.matatalab.com/
 
+### Lego WeDo 2.0
+Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
+
 ### Kano
 Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation ; le système d'exploitation semble très bien fait (contient des jeux qui initient aux composants d'un ordinateur). Pour 6 ans et plus. A partir de 200€. http://get.kano.me/
 
+
+Robots programmables
+--------------------
+
 ### Thymio
 Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (simplifiée avec des blocs sans texte, Scratch et langage proche du python). Vraiment très ludique. https://www.thymio.org/
-
-### Lego WeDo 2.0
-Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
 
 ### Dot, Dash et Cue
 Robots programmables. Certains sont prévus pour enfants à partir de 6 ans, d'autres à partir de 11 ans. Le kit le plus simple est à ~80€. https://www.makewonder.com/
