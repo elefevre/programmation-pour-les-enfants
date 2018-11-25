@@ -146,11 +146,16 @@ Kits de modules, y compris portes logiques, permettant des constructions de type
 ### MakerBloks
 Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
 
-### Pokitto
-Pokitto est une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les cablâges sur une breadboard est intéressant). Annoncée à 50$. https://www.pokitto.com/
+
+Consoles de jeux programmables
+------------------------------
+Des consoles de jeux bon marché par rapport aux grandes marques, mais qui permettent de programmer ses propres jeux. Plutôt à partir de 10 ans.
 
 ### Kitco
 Console de jeu portable encore plus limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/
+
+### Pokitto
+Pokitto est une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
 
 
 Environnements créatifs
