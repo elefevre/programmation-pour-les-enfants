@@ -279,6 +279,16 @@ Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et
 ### Tynker
 Cours payants (quelques dizaines d'euros), en principe à partir de 10 ans, qui mènent à la création de projets, typiquement des jeux. http://www.tynker.com/
 
+Apps pour smartphones
+---------------------
+Des applications qui initient à la programmation avec des langages professionnels, avec un aspect ludique (score, atteinte d'objectifs, etc.).
+
+### Grasshopper
+Pour apprendre le Javascript. https://grasshopper.codes/
+
+### Swift Playgrounds
+Pour apprendre Swift, le langage des iPhones. https://www.apple.com/swift/playgrounds/
+
 
 Initiation à des langages professionnels
 --------------
@@ -322,3 +332,4 @@ Un livre pour s'initier à la programmation avec le langage Python. Le livre a �
 
 ### MakeGamesWithUs
 Mélange de cours en ligne et d'accompagnement à la programmation de code Objective-C, avec l'objectif de publier un jeu sur un iPhone. https://www.makegameswith.us/build-an-ios-game-in-your-browser/
+
