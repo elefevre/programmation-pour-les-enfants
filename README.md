@@ -155,8 +155,10 @@ Des consoles de jeux bon marché par rapport aux grandes marques, mais qui perme
 Console de jeu portable encore plus limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/
 
 ### Pokitto
-Pokitto est une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
+Une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
 
+### Gamebuino
+Une console de jeu à l'aspect très fini. Ressources pour apprendre à programmer en français; nombreux jeux déjà disponibles. 100€. https://gamebuino.com/
 
 Environnements créatifs
 -----------------------
