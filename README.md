@@ -99,7 +99,10 @@ Une chenille-robot composée d'éléments qui déterminent son déplacement (pas
 Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
 
 ### Cubetto
-Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 4 ans. Cher (> 200 euros). https://www.primotoys.com/
+Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 3 ans. Cher (~220€). https://www.primotoys.com/
+
+### Matatalab
+Encore un petit robot programmable à distance, similaire à Cubetto, avec des pièces de plastique qui représentent les instructions demandées. Semble plus complet et moins cher que Cubetto. Dès 3 ans. A partir de 160$. https://www.matatalab.com/
 
 ### Kano
 Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation ; le système d'exploitation semble très bien fait (contient des jeux qui initient aux composants d'un ordinateur). Pour 6 ans et plus. A partir de 200€. http://get.kano.me/
