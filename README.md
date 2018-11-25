@@ -157,8 +157,12 @@ Console de jeu portable encore plus limitée (et donc abordable). Les soudures s
 ### Pokitto
 Une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
 
+### MAKERbuino
+Une console de jeu à assembler (soudures). 60€. https://www.makerbuino.com/
+
 ### Gamebuino
-Une console de jeu à l'aspect très fini. Ressources pour apprendre à programmer en français; nombreux jeux déjà disponibles. 100€. https://gamebuino.com/
+Une console de jeu, pré-assemblée, à l'aspect très fini. Ressources pour apprendre à programmer en français; nombreux jeux déjà disponibles. 100€. https://gamebuino.com/
+
 
 Environnements créatifs
 -----------------------
