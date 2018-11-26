@@ -23,7 +23,7 @@ Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. h
 Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile (iPad, iPhone, Android, PC, Mac, Windows Phone) : https://www.touchdevelop.com/
 
 ### Blockly
-Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/?lang=fr.
+Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. Surtout intéressant parce qu'il sert de base pour fournir des langages de programmation par blocs pour d'autres besoins (Blockly serait la prochaine version de Scratch). https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/.
 
 ### Kodu
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
@@ -63,7 +63,7 @@ Jeux video
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
 
 ### Bee-Bot
-Le plus simple de tous ; inspiré du robot (cf. ailleurs sur cette page). Pour iPad : http://www.tts-group.co.uk/BeeBotApp
+Un des plus simples ; inspiré du robot du même nom (cf. ailleurs sur cette page). Pour iPad : http://www.tts-group.co.uk/BeeBotApp
 
 ### Kodable
 iPad : http://www.surfscore.com/
