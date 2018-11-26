@@ -62,9 +62,6 @@ Jeux video
 ----------
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
 
-### Bee-Bot
-Un des plus simples ; inspiré du robot du même nom (cf. ailleurs sur cette page). Pour iPad : http://www.tts-group.co.uk/BeeBotApp
-
 ### Kodable
 iPad : http://www.surfscore.com/
 
