@@ -113,18 +113,24 @@ Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la
 
 Robots programmables
 --------------------
+Il y a maintenant un choix important de petits robots programmables, capables de se déplacer et de détecter des obstacles à l'aide de capteurs. Voici une sélection parmi les plus intéressants.
 
 ### Edison
-Un robot plutôt simple et puissant, compatible avec les briques Lego. Programmable, avec des blocs, par une interface web, mais on peut l'utiliser sans programmer. Vraiment pas cher : 50€. https://meetedison.com/
-
-### Thymio
-Un petit robot équipé de roues et de capteurs en tous genres. Il permet d'initier les enfants à la robotique et à la programmation sous différentes formes (simplifiée avec des blocs sans texte, Scratch et langage proche du python). Vraiment très ludique. https://www.thymio.org/
+Compatible avec les briques Lego. Programmable, avec des blocs, par une interface web, mais on peut un peu l'utiliser sans programmer. Vraiment pas cher : 50€. https://meetedison.com/
 
 ### Dot, Dash et Cue
 Robots programmables. Certains sont prévus pour enfants à partir de 6 ans, d'autres à partir de 11 ans. Le kit le plus simple est à ~80€. https://www.makewonder.com/
 
+### Codey Rocky et mBot
+Codey Rocky vise les enfants à partir de 7 ans. Programmable sur tablette. 100€.
+
+mBot est le robot programmable comme on l'imagine (mais peut aussi se piloter par un smartphone, sans programmation), à partir de 80€. https://www.makeblock.com/
+
+### Thymio
+Programmable sous différentes formes : simplifiée avec des blocs sans texte, Scratch et un langage proche du python. Un des plus complet, mais cher (180€). https://www.thymio.org/
+
 ### Cozmo
-Un robot à programmer, pour enfant à partir de 12 ans. Très esthétique et ludique. Kit débutant à partir de 180€. https://www.anki.com/fr-fr/
+Un robot à programmer, avec une certaine "personnalité", à partir de 12 ans. Très esthétique et ludique. A partir de 150€. https://www.anki.com/
 
 
 Autres jeux programmables
