@@ -226,6 +226,9 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 ### Introducing algorithms to children in reception class
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
+### Ordinateur en papier
+Une activité intéressante pour les plus petits consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il y a à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
+
 
 Evènements/ateliers
 -------------------
