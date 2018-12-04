@@ -137,7 +137,7 @@ Autres jeux programmables
 Un kit tout simple et surtout très bon marché. Principalement des petites LEDs programmables. Moins de 20€. https://microbit.org/
 
 ### Pixel Kit
-Similaire à micro:bit, mais avec un affichage bien plus grand. 60€. https://kano.me/
+Similaire à micro:bit, mais avec un affichage bien plus grand. 90€. https://kano.me/
 
 ### Harry Potter Kano Coding Kit
 Par les personnes qui font l'ordinateur Kano et le Pixel Kit : une baguette magique programmable sur tablette. 100€. https://kano.me/
@@ -165,6 +165,8 @@ Kits de modules, y compris portes logiques, permettant des constructions de type
 ### MakerBloks
 Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
 
+### Snap Circuits
+Des circuits électriques/électroniques faciles à monter (connexions par boutons-pression). A partir de 5 ans, mais mes enfants jouent avec depuis l'âge de 3 ans. Nombreuses boîtes à partir de 25$ ; difficile à trouver en France ; certaines boîtes sont bilingues anglais-français. https://www.elenco.com/brand/snap-circuits/
 
 Consoles de jeux programmables
 ------------------------------
