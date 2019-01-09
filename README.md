@@ -202,11 +202,14 @@ Il s'agit de programmer des images, avec de l'animation. Est utilisé pour des i
 Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage ; la version simplifiée est sur https://www.paysage.xyz/workshop/creature).
 
 
-Jeux de société
+Jeux de société, livres
 -------------------
 
-### Robot Turtles
+### Jeu de société Robot Turtles
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
+
+### Livre Hello Ruby
+Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages, traduit en français. A partir de 5 ans. http://www.helloruby.com/
 
 
 Activités en groupe
@@ -257,23 +260,6 @@ Certains Fab Labs proposent des ateliers de montage électronique, souvent assoc
 Ne pas négliger de consulter le programme des activités en bibliothèque municipale. Il y a parfois des ateliers informatique ou robotique.
 
 
-Livres/e-books
-----------------
-Pour accompagner ses enfants à la découverte de la programmation.
-
-### Programming For Kids
-En suivant ce livre, l'enfant apprend pas à pas les bases de la programmation. Un Mac est nécessaire pour suivre les exemples, qui sont basés sur Terminal, nano, Ruby et irb. Pour les 9 à 12 ans. https://leanpub.com/programmingforkids (traduction française en cours : https://leanpub.com/laprogrammationpourlesenfants, en néerlandais : https://leanpub.com/programmerenvoorKinderen)
-
-### Hello Ruby
-Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages. A partir de 4 ans. http://www.kickstarter.com/projects/lindaliukas/hello-ruby
-
-### A Robot Story
-Une histoire illustrée en anglais pour apprendre à compter en binaire. 13 pages. A partir de 4 ans ? https://www.kickstarter.com/projects/lisadeluca/a-robot-story-learn-to-count-to-ten-in-binary
-
-### Squeak: Learn Programming with Robots
-Programmation des robots avec un dialecte de Smalltalk. Le livre est en anglais, bien qu'écrit par un Français : http://rmod.lille.inria.fr/botsinc ; une traduction en français est en cours : https://github.com/janniklaval/botsinc
-
-
 Cours en ligne
 --------------
 Cours dans l'esprit de ce qu'on pourrait trouver dans un milieu scolaire.
@@ -283,6 +269,7 @@ Dans le cadre de l'initiative Code.org, un mélange d'explications par vidéo et
 
 ### Tynker
 Cours payants (quelques dizaines d'euros), en principe à partir de 10 ans, qui mènent à la création de projets, typiquement des jeux. http://www.tynker.com/
+
 
 Apps pour smartphones
 ---------------------
