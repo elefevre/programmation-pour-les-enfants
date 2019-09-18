@@ -173,10 +173,10 @@ Des circuits électriques/électroniques faciles à monter (connexions par bouto
 
 Consoles de jeux programmables
 ------------------------------
-Des consoles de jeux bon marché par rapport aux grandes marques, mais qui permettent de programmer ses propres jeux. Plutôt à partir de 10 ans.
+Des consoles de jeux bon marché par rapport aux grandes marques, mais qui permettent de programmer ses propres jeux. De nombreux modèles, ceci n'est qu'une sélection. Plutôt à partir de 12 ans.
 
 ### Kitco
-Console de jeu portable encore plus limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/
+Console de jeu portable très limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Programmation en Arduino C (cf. mon [Space Invader](https://github.com/elefevre/jeux-kitco)). Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/.
 
 ### Pokitto
 Une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
@@ -185,7 +185,7 @@ Une petite console de jeu portable, type Gameboy, à assembler et programmer soi
 Une console de jeu à assembler (soudures). 60€. https://www.makerbuino.com/
 
 ### Gamebuino
-Une console de jeu, pré-assemblée, à l'aspect très fini. Ressources pour apprendre à programmer en français; nombreux jeux déjà disponibles. 100€. https://gamebuino.com/
+Une console de jeu, pré-assemblée, à l'aspect très fini. Ressources en français pour apprendre à programmer dans le langage Python; nombreux jeux déjà disponibles. 100€. https://gamebuino.com/
 
 
 Environnements créatifs
