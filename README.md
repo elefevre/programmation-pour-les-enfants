@@ -19,11 +19,8 @@ Très similaire à Scratch (y compris dans l'aspect publication sur internet). P
 ### Hopscotch
 Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
 
-### TouchDevelop
-Application Microsoft permettant de s'initier à la programmation de jeux simples sur mobile (iPad, iPhone, Android, PC, Mac, Windows Phone) : https://www.touchdevelop.com/
-
 ### Blockly
-Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. Surtout intéressant parce qu'il sert de base pour fournir des langages de programmation par blocs pour d'autres besoins (Blockly serait la prochaine version de Scratch). https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/.
+Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. Surtout intéressant parce qu'il sert de base pour fournir des langages de programmation par blocs pour d'autres besoins. https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/.
 
 ### Kodu
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
