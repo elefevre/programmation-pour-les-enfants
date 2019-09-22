@@ -60,16 +60,13 @@ Jeux video
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
 
 ### Kodable
-iPad : http://www.surfscore.com/
+iPad : https://www.kodable.com/
 
 ### Light-bot
 iPhone/iPad et Android ; existe en deux versions, à partir de 4 ans et à partir de 9 ans : https://lightbot.com
 
-### Robozzle
-Web : http://www.robozzle.com/. iPad : http://robozzleapp.com/. Android : https://play.google.com/store/apps/details?id=com.team242.robozzle (RoboZZle Droid) et https://play.google.com/store/apps/details?id=com.midnightvacation.robo (Robot Trainer).
-
 ### Robo Logic
-iPhone/iPad : http://www.digitalsirup.com/apps/app_robologic2hd.html
+iPhone/iPad : https://www.digitalsirup.com/app/robologic/
 
 ### Cargo Bot
 Il s'agit de donner des instructions à un bras manipulateur de caisses dans une usine pour empiler les caisses selon l'objectif proposé. Le principe est le même que pour les autres jeux. iPad : http://twolivesleft.com/CargoBot/
@@ -79,6 +76,9 @@ Il faut donner des instructions à une apprentie magicienne. Semble plus élabor
 
 ### Minecraft
 Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
+
+### Robozzle
+Sans doute le premier jeu du genre, mais assez difficile pour les plus jeunes. Surtout sur le Web : http://www.robozzle.com/, mais il existe des versions pour mobile, non officielles.
 
 
 Jouets programmables
