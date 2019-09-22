@@ -291,14 +291,14 @@ Initiation à des langages professionnels
 --------------
 Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Il faut toujours savoir bien lire l'anglais. Plutôt à partir de 14-15 ans mais il y a des exceptions.
 
+### CodeCombat
+Apprentissage du Javascript ou du Python en jouant à un jeu de type Donjons et Dragons. Très ludique, plutôt bien pensé et apprécié des enfants. Traduit en français, mais pas parfaitement. http://codecombat.com/
+
 ### Erase All Kittens
 Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez plaisants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
 
 ### Code Monster
 Initiation à la programmation JavaScript, avec des étapes très simples. Textes en anglais, faciles à comprendre. http://www.crunchzilla.com/code-monster
-
-### CodeCombat
-Apprentissage Javascript en jouant à un jeu de type Donjons et Dragons. http://codecombat.com/
 
 ### JSWarrior
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
