@@ -306,9 +306,6 @@ Apprentissage Javascript en programmant un personnage de jeu de combat. http://j
 ### Leek Wars
 L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
 
-### JS Robot
-Apprentissage Javascript : on doit compléter du code JavaScript pour permettre à un personnage de sortir d'un labyrinthe. http://jsrobot.tk/
-
 ### Ruby Warrior
 Apprentissage Ruby en programmant un chevalier dans un donjon ; tout à fait comme JSWarrior. https://www.bloc.io/ruby-warrior#/
 
