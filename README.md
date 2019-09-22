@@ -312,9 +312,6 @@ Apprentissage Ruby en programmant un chevalier dans un donjon ; tout à fait com
 ### KidsRuby
 Environnement de programmation Ruby qui donne des retours graphiques rapides aux instructions. http://www.kidsruby.com/
 
-### Hackety Hack
-L'inspiration de KidsRuby. Semble n'être disponible que sur Mac OS X. http://hackety.com/
-
 ### Greenfoot
 IDE permettant de programmer des jeux en Java. Les abstractions utilisées sont similaires à ce qu'on voit sur un projet professionnel ("class", "method", "compiler", "syntax error", etc.) ; le but est d'expliquer les concepts d'objets en programmation. http://www.greenfoot.org/
 
