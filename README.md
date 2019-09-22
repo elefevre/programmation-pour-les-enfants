@@ -321,6 +321,3 @@ Un IDE simplifié en ligne pour piloter un robot en langage Python (et Javascrip
 ### Domptage de serpent pour les enfants
 Un livre pour s'initier à la programmation avec le langage Python. Le livre a été écrit en anglais, mais une traduction en français est disponible. A partir de 8 ans. http://www.briggs.net.nz/snake-wrangling-for-kids.html
 
-### MakeGamesWithUs
-Mélange de cours en ligne et d'accompagnement à la programmation de code Objective-C, avec l'objectif de publier un jeu sur un iPhone. https://www.makegameswith.us/build-an-ios-game-in-your-browser/
-
