@@ -5,24 +5,25 @@ Voici une liste de ressources qui permettent d'initier des enfants, même très 
 
 Si vous modifiez ce fichier, merci de vous assurer qu'il reste facile à imprimer (en particulier les noms des sites doivent être visibles). Un des objectifs de ce document est qu'il soit facilement diffusable en milieu scolaire.
 
+:white_check_mark:= "j'ai testé" :heart_eyes:= j'adore
 
 Programmation "avec des blocs"
 ------------------------------
 Beaucoup de resources qui présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
 
-### Scratch
+### Scratch :white_check_mark:
 Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. Scratch s'adresse aux enfants qui savent lire, mais il existe une version simplifiée à partir de 5 ans (https://www.scratchjr.org/). Pour la version classique, voir http://scratch.mit.edu/.
 
 ### Looking Glass
 Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées. A partir de 10 ans. https://lookingglass.wustl.edu/
 
-### Hopscotch
+### Hopscotch :white_check_mark:
 Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
 
-### Blockly
+### Blockly :white_check_mark:
 Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. Surtout intéressant parce qu'il sert de base pour fournir des langages de programmation par blocs pour d'autres besoins. https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/.
 
-### Kodu
+### Kodu :white_check_mark:
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
 
 ### AgentCubes
@@ -39,10 +40,10 @@ Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des ins
 ### Kojo
 On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
 
-### Algoid
-Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android. Les tutoriels sont disponibles en français et vont des bases à la création de jeux vidéos. http://www.algoid.net
+### Algoid :white_check_mark:
+Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android (mais pas facile à manipuler sur mobile). Les tutoriels sont disponibles en français et vont des bases à la création de jeux vidéos. http://www.algoid.net
 
-### LiveCodeLab
+### LiveCodeLab :white_check_mark:
 Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
 
 ### Lmfab
@@ -59,25 +60,25 @@ Jeux video
 ----------
 Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
 
-### Kodable
+### Kodable :white_check_mark:
 iPad : https://www.kodable.com/
 
-### Light-bot
+### Light-bot :white_check_mark::heart_eyes:
 iPhone/iPad et Android ; existe en deux versions, à partir de 4 ans et à partir de 9 ans : https://lightbot.com
 
 ### Robo Logic
 iPhone/iPad : https://www.digitalsirup.com/app/robologic/
 
-### Cargo Bot
+### Cargo Bot :white_check_mark:
 Il s'agit de donner des instructions à un bras manipulateur de caisses dans une usine pour empiler les caisses selon l'objectif proposé. Le principe est le même que pour les autres jeux. iPad : http://twolivesleft.com/CargoBot/
 
 ### Codemancer
 Il faut donner des instructions à une apprentie magicienne. Semble plus élaboré (et plus difficile) que les jeux de type labyrinthe. En cours de développement à la date du 11 juin 2014. A partir de 9 ans ; il faut savoir lire l'anglais. http://codemancergame.com/
 
-### Minecraft
+### Minecraft :white_check_mark:
 Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
 
-### Robozzle
+### Robozzle :white_check_mark:
 Sans doute le premier jeu du genre, mais assez difficile pour les plus jeunes. Surtout sur le Web : http://www.robozzle.com/, mais il existe des versions pour mobile, non officielles.
 
 
@@ -86,19 +87,19 @@ Jouets programmables
 
 Il s'agit en général d'un petit robot que l'on peut programmer de façon simplifiée. Souvent assez coûteux (100 euros et plus).
 
-### La Chenille Programmable (Fisher-Price)
+### La Chenille Programmable (Fisher-Price) :white_check_mark:
 Une chenille-robot composée d'éléments qui déterminent son déplacement (pas de comportement basé sur des conditions). Moins cher que les autres de cette catégorie (~60€) et adapté dès 3 ans. http://www.fisher-price.com/fr_FR/products/La-Chenille-programmable
 
-### Bee-Bot
+### Bee-Bot :white_check_mark:
 Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
 
-### Cubetto
+### Cubetto :white_check_mark:
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 3 ans. Cher (~220€). https://www.primotoys.com/
 
 ### Matatalab
 Encore un petit robot programmable à distance, similaire à Cubetto, avec des pièces de plastique qui représentent les instructions demandées. Semble plus complet et moins cher que Cubetto. Dès 3 ans. A partir de 160$. https://www.matatalab.com/
 
-### LEGO WeDo 2.0
+### LEGO WeDo 2.0 :white_check_mark::heart_eyes:
 Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation, difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
 
 ### LEGO BOOST
@@ -112,7 +113,7 @@ Robots programmables
 --------------------
 Il y a maintenant un choix important de petits robots programmables, capables de se déplacer et de détecter des obstacles à l'aide de capteurs. Voici une sélection parmi les plus intéressants.
 
-### Edison
+### Edison :white_check_mark:
 Compatible avec les briques Lego. Programmable, avec des blocs, par une interface web, mais on peut un peu l'utiliser sans programmer. Vraiment pas cher : 50€. https://meetedison.com/
 
 ### Dot, Dash et Cue
@@ -123,8 +124,8 @@ Codey Rocky vise les enfants à partir de 7 ans. Programmable sur tablette. 100�
 
 mBot est le robot programmable comme on l'imagine (mais peut aussi se piloter par un smartphone, sans programmation), à partir de 80€. https://www.makeblock.com/
 
-### Thymio
-Programmable sous différentes formes : simplifiée avec des blocs sans texte, Scratch et un langage proche du python. Un des plus complet, mais cher (180€). https://www.thymio.org/
+### Thymio :white_check_mark::heart_eyes:
+Programmable sous différentes formes : simplifiée avec des blocs sans texte, Scratch et un langage proche du python. Un des plus complet, mais cher (150€). https://www.thymio.org/
 
 ### Cozmo
 Un robot à programmer, avec une certaine "personnalité", à partir de 12 ans. Très esthétique et ludique. A partir de 150€. https://www.anki.com/
@@ -133,7 +134,7 @@ Un robot à programmer, avec une certaine "personnalité", à partir de 12 ans. 
 Autres jeux programmables
 -------------------------
 
-### Micro:bit
+### Micro:bit :white_check_mark::heart_eyes:
 Un kit tout simple et surtout très bon marché. Principalement des petites LEDs programmables. Moins de 20€. https://microbit.org/
 
 ### Pixel Kit
@@ -149,11 +150,11 @@ Electronique
 ### Bristlebot
 Un mini "robot", fabriqué à partir d'une brosse à dent, qui bouge tout seul. Aucune logique, mais facile d'approche pour des jeunes enfants. A partir de 5 ans. http://www.evilmadscientist.com/2007/bristlebot-a-tiny-directional-vibrobot/
 
-### Makey Makey
+### Makey Makey :white_check_mark::heart_eyes:
 Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau, le corps humain) à un ordinateur.
 A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
-### Dominoux
+### Dominoux :white_check_mark:
 "Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler/souder soi-même. A partir de 4 ans (une fois assemblé). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
 
 ### littleBits
@@ -165,14 +166,14 @@ Kits de modules, y compris portes logiques, permettant des constructions de type
 ### MakerBloks
 Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
 
-### Snap Circuits
+### Snap Circuits :white_check_mark::heart_eyes:
 Des circuits électriques/électroniques faciles à monter (connexions par boutons-pression). A partir de 5 ans, mais mes enfants jouent avec depuis l'âge de 3 ans. Nombreuses boîtes à partir de 25$ ; difficile à trouver en France ; certaines boîtes sont bilingues anglais-français. https://www.elenco.com/brand/snap-circuits/
 
 Consoles de jeux programmables
 ------------------------------
 Des consoles de jeux bon marché par rapport aux grandes marques, mais qui permettent de programmer ses propres jeux. De nombreux modèles, ceci n'est qu'une sélection. Plutôt à partir de 12 ans.
 
-### Kitco
+### Kitco :white_check_mark::heart_eyes:
 Console de jeu portable très limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Programmation en Arduino C (cf. mon [Space Invader](https://github.com/elefevre/jeux-kitco)). Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/.
 
 ### Pokitto
@@ -189,23 +190,23 @@ Environnements créatifs
 -----------------------
 Il s'agit d'outils permettant d'abord d'être créatif. Les principes de programmation peuvent intervenir assez vites, selon les outils.
 
-### Twinery
+### Twinery :white_check_mark::heart_eyes:
 C'est un environnement de création de littérature intéractive, comme il en existe de nombreux. La littérature intéractive a été un type de jeux vidéo au début des années 1980, très proche des "livres dont vous êtes le héros". Le site Twinery (qui utilise le moteur Twine) permet de créer très simplement une histoire, avec des choix proposés à l'utilisateur. Il est assez simple d'y ajouter plus d'intéraction par la programmation d'une demande de nom de l'utilisateur, de la possibilité de ramasser des pièces d'or, etc. A partir de 8 ans (testé auprès d'enfants en CE2). http://twinery.org/
 
-### Sonic Pi
+### Sonic Pi :white_check_mark::heart_eyes:
 Le créateur de Sonic Pi a voulu créer un environnement d'initiation à la programmation par la manipulation d'un synthétiseur. Il s'en sert maintenant pour faire des spectacles. Le tutoriel a été traduit en français. A partir de 10 ans. https://sonic-pi.net/
 
 ### Processing
 Il s'agit de programmer des images, avec de l'animation. Est utilisé pour des installations artistiques. Peut-être le plus complexe à aborder dans cette catégorie. https://processing.org/
 
-### Paysage
+### Paysage :white_check_mark::heart_eyes:
 Un bac à sable pour créer en groupe des créatures se déplaçant sur un écran, idéalement projeté devant tous. Les plus jeunes peuvent simplement modifier le nombre d'yeux, bras, etc. Les plus grands pourront programmer en Javascript des comportements plus complexe. A partir de 6 ans. http://paysage.xyz (pour la mise en place en groupe, voir https://github.com/jonathanperret/paysage ; la version simplifiée est sur https://www.paysage.xyz/workshop/creature).
 
 
 Jeux de société, livres
 -------------------
 
-### Jeu de société Robot Turtles
+### Jeu de société Robot Turtles :white_check_mark:
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
 ### Livre Hello Ruby
@@ -216,7 +217,7 @@ Activités en groupe
 -------------------
 ... et sans ordinateur. Bien adaptés au système éducatif.
 
-### CS Unplugged
+### CS Unplugged :white_check_mark::heart_eyes:
 Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/.
 
 ### Dr Techniko
@@ -228,26 +229,26 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 ### Introducing algorithms to children in reception class
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
-### Ordinateur en papier
+### Ordinateur en papier :white_check_mark:
 Une activité intéressante pour les plus petits consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il y a à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
 
 
 Evènements/ateliers
 -------------------
 
-### Coding Goûter
+### Coding Goûter :white_check_mark::heart_eyes:
 Des enfants de 5 à 15 ans qui s'amusent à programmer avec leurs parents sur des outils simples comme Scratch ou avec des Makey Makey. Très ouvert à des outils alternatifs. http://codinggouter.org/
 
-### Devoxx4Kids
+### Devoxx4Kids :white_check_mark:
 Une initiative internationale, que l'on retrouve aussi dans certaines conférences en France. A partir de 5 ans. Les enfants se débrouillent sans leurs parents, aidés par des informaticiens. Une fois par an pour Paris, mais aussi ailleurs. http://www.devoxx4kids.org/france/
 
 ### CoderDojo
 Une initiative internationale, qu'on retrouve dans 22 pays ; présent à Paris et banlieue. Pas toujours facile de comprendre quand ont lieu les événements. A partir de 7 ans. http://coderdojoparis.com/
 
-### Maker Faire
+### Maker Faire :white_check_mark::heart_eyes:
 Un salon annuel où des particuliers (et des professionnels) montrent leurs réalisations. Les thèmes sont variés, mais il y a de nombreux stands qui parlent d'informatique ou électronique. Plusieurs proposent des ateliers pour les enfants. Il y a souvent une journée dédiée aux écoles. Très inspirant. http://france.makerfaire.com/
 
-### Le Castor Informatique
+### Le Castor Informatique :white_check_mark::heart_eyes:
 Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques. Pas de programmation, uniquement des questions qui utilisent la pensée algorithmique. A lieu en novembre ; près de 200 000 élèves participent, à partir de la 6ème. http://castor-informatique.fr/. Il existe aussi un concours plus orienté vers la programmation : http://algorea.org/. Pour les adolescents, il y a http://concours-alkindi.fr/ et https://prologin.org/.
 
 ### Activités ou stages
@@ -277,7 +278,7 @@ Apps pour smartphones
 ---------------------
 Des applications qui initient à la programmation avec des langages professionnels, avec un aspect ludique (score, atteinte d'objectifs, etc.).
 
-### Grasshopper
+### Grasshopper :white_check_mark:
 Pour apprendre le Javascript. https://grasshopper.codes/
 
 ### Swift Playgrounds
@@ -288,10 +289,10 @@ Initiation à des langages professionnels
 --------------
 Des resources qui sont déjà adaptés aux adultes, mais avec un aspect ludique. Il faut toujours savoir bien lire l'anglais. Plutôt à partir de 14-15 ans mais il y a des exceptions.
 
-### CodeCombat
+### CodeCombat :white_check_mark::heart_eyes:
 Apprentissage du Javascript ou du Python en jouant à un jeu de type Donjons et Dragons. Très ludique, plutôt bien pensé et apprécié des enfants. Traduit en français, mais pas parfaitement. http://codecombat.com/
 
-### Erase All Kittens
+### Erase All Kittens :white_check_mark:
 Un peu dans l'esprit CodeCombat, un jeu qui consiste à modifier du code HTML directement dans le navigateur pour sauver des chatons. Textes assez plaisants, mais qui nécessitent de bien parler anglais. http://eraseallkittens.com/
 
 ### Code Monster
@@ -300,7 +301,7 @@ Initiation à la programmation JavaScript, avec des étapes très simples. Texte
 ### JSWarrior
 Apprentissage Javascript en programmant un personnage de jeu de combat. http://jswarrior.fusioncharts.com/
 
-### Leek Wars
+### Leek Wars :white_check_mark:
 L'objectif est de programmer des poireaux pour combattre d'autres poireaux. Le langage est proche du Javascript, mais l'évolution semble progressive (il faut quand même consulter la documentation régulièrement pour avancer). A partir de 8 ans. https://leekwars.com/
 
 ### Ruby Warrior
