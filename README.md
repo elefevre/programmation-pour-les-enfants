@@ -206,10 +206,13 @@ Un bac à sable pour créer en groupe des créatures se déplaçant sur un écra
 Jeux de société, livres
 -------------------
 
-### Jeu de société Robot Turtles :white_check_mark:
+### Robot Turtles (jeu de société) :white_check_mark:
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
-### Livre Hello Ruby
+### Turing Tumble (jeu de société) :white_check_mark:
+Jeu de réflexion où l'on prépare un plateau. Il fait ensuite ajouter des composants en plastique pour créer un parcours correspondant au résultat demandé. Les composants en plastique sont finalement des portes logiques comme on trouve dans les concepts de programmation. Le manuel est en anglais mais les illustrations sont assez claires. A partir de 8 ans, ~90 euros. https://www.turingtumble.com
+
+### Hello Ruby (livre)
 Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages, traduit en français. A partir de 5 ans. http://www.helloruby.com/
 
 
