@@ -99,7 +99,7 @@ Un petit robot programmable à distance. Les instructions sont rendues tangibles
 ### Matatalab
 Encore un petit robot programmable à distance, similaire à Cubetto, avec des pièces de plastique qui représentent les instructions demandées. Semble plus complet et moins cher que Cubetto. Dès 3 ans. A partir de 160$. https://www.matatalab.com/
 
-### LEGO WeDo 2.0 :white_check_mark::heart_eyes:
+### LEGO WeDo :white_check_mark::heart_eyes:
 Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation, difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
 
 ### LEGO BOOST
@@ -210,7 +210,13 @@ Jeux de société, livres
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
 ### Turing Tumble (jeu de société) :white_check_mark:
-Jeu de réflexion où l'on prépare un plateau. Il fait ensuite ajouter des composants en plastique pour créer un parcours correspondant au résultat demandé. Les composants en plastique sont finalement des portes logiques comme on trouve dans les concepts de programmation. Le manuel est en anglais mais les illustrations sont assez claires. A partir de 8 ans, ~90 euros. https://www.turingtumble.com
+Jeu de réflexion où l'on prépare un plateau. Il fait ensuite ajouter des composants en plastique pour créer un parcours correspondant au résultat demandé. Les composants en plastique sont finalement des portes logiques comme on trouve dans les concepts de programmation. Le manuel est en anglais mais les illustrations sont assez claires. A partir de 8 ans, ~90€. https://www.turingtumble.com
+
+### Robot Rally (jeu de société)
+Il s'agit de programmer à l'avance une série d'actions pour déplacer un robot dans une usine et ramasser des drapeaux. Les règles semblent être en anglais, mais le matériel de jeu ne contient pas de texte. A partir de 12 ans, 35€. https://avalonhill.wizards.com/games/robo-rally
+
+### Twin Tin Bots (jeu de société)
+Programmation de deux robots, en compétition avec les autres joueurs. Le principe semble intéressant. A partir de 12 ans, mais semble épuisé. http://www.flatlinedgames.com/Games/twin_tin_bots
 
 ### Hello Ruby (livre)
 Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages, traduit en français. A partir de 5 ans. http://www.helloruby.com/
