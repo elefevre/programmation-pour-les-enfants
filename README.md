@@ -327,3 +327,6 @@ Un environnement de programmation simplifié en ligne pour piloter un robot en l
 
 ### Python pour les kids
 Un livre pour s'initier à la programmation avec le langage Python. A partir de 8 ans. http://jasonrbriggs.com/python-for-kids/
+
+### Warriorjs
+Un environnement minimaliste mais efficace pour apprendre la programmation avec Javascript tout en s'amusant. L'éditeur de code assiste parfaitement les utilisateurs-trices. En anglais uniquement et probablement à partir de 10 ans. https://warrior.js.org/
