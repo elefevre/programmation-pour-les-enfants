@@ -229,6 +229,9 @@ Activités en groupe
 ### CS Unplugged :white_check_mark::heart_eyes:
 Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/.
 
+### Coloring Computers (ordinateurs à colorier) :white_check_mark::heart_eyes:
+Du coloriage avec des règles à appliquer. Démontre les principes de base d'un ordinateur de façon assez étonnante. Testé avec succès de 6 à 11 ans. PDF à imprimer en un livret au format A5 (instructions en anglais). https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/
+
 ### Dr Techniko
 "Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/ (en Français sur https://benjiscorner.wordpress.com/2015/01/13/comment-apprendre-a-votre-robot-ou-la-programmation-en-samusant/)
 
@@ -238,8 +241,8 @@ Il s'agit de donner des instructions (pour construire un pyramide avec des gobel
 ### Introducing algorithms to children in reception class
 Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
-### Ordinateur en papier :white_check_mark:
-Une activité intéressante pour les plus petits consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il y a à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
+### My First Computer (ordinateur en papier) :white_check_mark:
+Une activité intéressante pour les plus petits qui consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il y a à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
 
 
 Evènements/ateliers
