@@ -3,13 +3,13 @@ Initiation à la programmation pour les enfants
 
 Voici une liste de ressources qui permettent d'initier des enfants, même très jeunes, aux principes de la programmation, de la logique, voire de l'électronique.
 
-Si vous modifiez ce fichier, merci de vous assurer qu'il reste facile à imprimer (en particulier les noms des sites doivent être visibles). Un des objectifs de ce document est qu'il soit facilement diffusable en milieu scolaire.
+Si vous modifiez ce fichier, merci de vous assurer qu'il reste facile à imprimer (en particulier les noms des sites web doivent être visibles). Un des objectifs de ce document est qu'il soit facilement diffusable en milieu scolaire.
 
 :white_check_mark:= "j'ai testé" :heart_eyes:= j'adore
 
 Programmation "avec des blocs"
 ------------------------------
-Beaucoup de resources qui présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
+Beaucoup de resources présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
 
 ### Scratch :white_check_mark:
 Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. Scratch s'adresse aux enfants qui savent lire, mais il existe une version simplifiée à partir de 5 ans (https://www.scratchjr.org/). Pour la version classique, voir http://scratch.mit.edu/.
@@ -21,16 +21,13 @@ Très similaire à Scratch (y compris dans l'aspect publication sur internet). P
 Sur iPad, similaire à Scratch, en plus simple. Il faut savoir lire l'anglais. https://www.gethopscotch.com/
 
 ### Blockly :white_check_mark:
-Même principe que les autres. Utilisation plutôt en ligne, même si on peut télécharger et installer sur sa propre machine. Traduit en français. Surtout intéressant parce qu'il sert de base pour fournir des langages de programmation par blocs pour d'autres besoins. https://developers.google.com/blockly/. Voir aussi les exercices/jeux basés sur le même système : https://blockly-games.appspot.com/.
+Exercices de programmation avec un système basé sur des blocs similaires à Scratch : https://blockly.games/.
 
 ### Kodu :white_check_mark:
 Environnement graphique de programmation de jeux pour Windows et XBox. A partir de 10 ans. http://www.kodugamelab.com/
 
 ### AgentCubes
-Un environnement pour programmer des jeux. HTML5 Les "agents" reçoivent des événements auxquels ils doivent réagir, de façon très similaire à un programme professionnel. A partir de 10 ans. http://www.agentsheets.com/agentcubes/
-
-### Puzzlets
-Jeu astucieux où les blocs sont des vrais blocs en plastique qu'il faut assembler pour animer un personnage d'un jeu sur tablette graphique. ~100 €. A partir de 4 ans. http://www.digitaldreamlabs.com/
+Un environnement pour programmer des jeux. HTML5 Les "agents" reçoivent des événements auxquels ils doivent réagir, de façon très similaire à un programme professionnel. A partir de 10 ans. http://www.agentsheets.com/
 
 
 Langages de programmation simplifiés
@@ -45,9 +42,6 @@ Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android (mais pas fa
 
 ### LiveCodeLab :white_check_mark:
 Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
-
-### Lmfab
-Une application qui pousse les enfants à partir de 12 ans à apprendre les boucles en C par la création d'un piano virtuel. http://www.letime.net/vocale/U_E_D.html
 
 ### RoboMind
 Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
@@ -79,7 +73,7 @@ Il faut donner des instructions à une apprentie magicienne. Semble plus élabor
 Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
 
 ### Robozzle :white_check_mark:
-Sans doute le premier jeu du genre, mais assez difficile pour les plus jeunes. Surtout sur le Web : http://www.robozzle.com/, mais il existe des versions pour mobile, non officielles.
+Sans doute le premier jeu du genre, mais assez difficile pour les plus jeunes. Surtout sur le Web (malheureusement avec Silverlight, un équivalent vieillot de Flash) : http://www.robozzle.com/, mais il existe des versions pour mobile, non officielles.
 
 
 Jouets programmables
@@ -88,25 +82,22 @@ Jouets programmables
 Il s'agit en général d'un petit robot que l'on peut programmer de façon simplifiée. Souvent assez coûteux (100 euros et plus).
 
 ### La Chenille Programmable (Fisher-Price) :white_check_mark:
-Une chenille-robot composée d'éléments qui déterminent son déplacement (pas de comportement basé sur des conditions). Moins cher que les autres de cette catégorie (~60€) et adapté dès 3 ans. http://www.fisher-price.com/fr_FR/products/La-Chenille-programmable
+Une chenille-robot composée d'éléments qui déterminent son déplacement (pas de comportement basé sur des conditions). Moins cher que les autres de cette catégorie (~60€) et adapté dès 3 ans. https://www.nosamislesrobots.fr/robot-educatif/chenille-programmable-fisher-price
 
 ### Bee-Bot :white_check_mark:
-Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad ailleurs sur cette page. http://www.bee-bot.us/
+Un petit robot de type "tortue", programmable par des touches sur son dos. A partir de 4 ans. Voir aussi l'app pour iPad. https://www.terrapinlogo.com/bee-bot-family.html
 
 ### Cubetto :white_check_mark:
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 3 ans. Cher (~220€). https://www.primotoys.com/
 
-### Matatalab
-Encore un petit robot programmable à distance, similaire à Cubetto, avec des pièces de plastique qui représentent les instructions demandées. Semble plus complet et moins cher que Cubetto. Dès 3 ans. A partir de 160$. https://www.matatalab.com/
-
 ### LEGO WeDo :white_check_mark::heart_eyes:
-Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation, difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/lesi/elementary/wedo-2
+Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation, difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/products/lego-education-wedo-2-0-core-set/45300
 
 ### LEGO BOOST
 Des robots en LEGO, programmable avec une tablette. A partir de 160€. https://www.lego.com/fr-fr/themes/boost
 
 ### Kano
-Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation ; le système d'exploitation semble très bien fait (contient des jeux qui initient aux composants d'un ordinateur). Pour 6 ans et plus. A partir de 200€. http://get.kano.me/
+Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation ; le système d'exploitation semble très bien fait (contient des jeux qui initient aux composants d'un ordinateur). Pour 6 ans et plus. A partir de 200€. https://kano.me/
 
 
 Robots programmables
@@ -128,7 +119,7 @@ mBot est le robot programmable comme on l'imagine (mais peut aussi se piloter pa
 Programmable sous différentes formes : simplifiée avec des blocs sans texte, Scratch et un langage proche du python. Un des plus complet, mais cher (150€). https://www.thymio.org/
 
 ### Cozmo
-Un robot à programmer, avec une certaine "personnalité", à partir de 12 ans. Très esthétique et ludique. A partir de 150€. https://www.anki.com/
+Un robot à programmer, avec une certaine "personnalité", à partir de 12 ans. Très esthétique et ludique. A partir de 150€. https://www.digitaldreamlabs.com/
 
 
 Autres jeux programmables
@@ -138,10 +129,10 @@ Autres jeux programmables
 Un kit tout simple et surtout très bon marché. Principalement des petites LEDs programmables. Moins de 20€. https://microbit.org/
 
 ### Pixel Kit
-Similaire à micro:bit, mais avec un affichage bien plus grand. 90€. https://kano.me/
+Similaire à micro:bit, mais avec un affichage bien plus grand. 80€. https://kano.me/us/store/products/pixel-kit
 
 ### Harry Potter Kano Coding Kit
-Par les personnes qui font l'ordinateur Kano et le Pixel Kit : une baguette magique programmable sur tablette. 100€. https://kano.me/
+Par les personnes qui font l'ordinateur Kano et le Pixel Kit : une baguette magique programmable sur tablette. 50€. https://kano.me/us/store/products/coding-wand
 
 
 Electronique
@@ -154,20 +145,14 @@ Un mini "robot", fabriqué à partir d'une brosse à dent, qui bouge tout seul. 
 Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau, le corps humain) à un ordinateur.
 A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
-### Dominoux :white_check_mark:
-"Dominos" lumineux, capables de transmettre des impulsions lumineuses de proche en proche. Attention, c'est à assembler/souder soi-même. A partir de 4 ans (une fois assemblé). http://shop.electrolab.fr/kits-electronique/12-dominoux.html
-
 ### littleBits
-Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suffit juste de connecter des composants magnetisés. Le "Base Kit" contient 10 composants, y compris batterie, moteur, détecteur de luminosité, buzzer et diodes. A partir de 8 ans. http://littlebits.cc
+Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suffit juste de connecter des composants magnetisés. Le "Base Kit" contient 10 composants, y compris batterie, moteur, détecteur de luminosité, buzzer et diodes. A partir de 8 ans. https://sphero.com/collections/all/family_littlebits
 
 ### Logiblocs
 Kits de modules, y compris portes logiques, permettant des constructions de type détecteur de présence, voire petit robot. Facilement disponible en grandes surfaces en France. A partir de 7 ans. http://www.logiblocs.com/
 
-### MakerBloks
-Ensemble de briques aimentées constituées de composants élémentaires comme des résistances, leds, photo-résistances, buzzer... Trois coffrets disponibles dans une fourchette de 100 à 200$. https://www.makerbloks.com/en/
-
 ### Snap Circuits :white_check_mark::heart_eyes:
-Des circuits électriques/électroniques faciles à monter (connexions par boutons-pression). A partir de 5 ans, mais mes enfants jouent avec depuis l'âge de 3 ans. Nombreuses boîtes à partir de 25$ ; difficile à trouver en France ; certaines boîtes sont bilingues anglais-français. https://www.elenco.com/brand/snap-circuits/
+Des circuits électriques/électroniques faciles à monter (connexions par boutons-pression). A partir de 5 ans, mais mes enfants jouent avec depuis l'âge de 3 ans. Nombreuses boîtes à partir de 25$ ; difficile à trouver en France ; certaines boîtes sont bilingues anglais-français. https://shop.elenco.com/consumers/brands/snap-circuits.html
 
 Consoles de jeux programmables
 ------------------------------
@@ -178,9 +163,6 @@ Console de jeu portable très limitée (et donc abordable). Les soudures sont à
 
 ### Pokitto
 Une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
-
-### MAKERbuino
-Une console de jeu à assembler (soudures). 60€. https://www.makerbuino.com/
 
 ### Gamebuino
 Une console de jeu, pré-assemblée, à l'aspect très fini. Ressources en français pour apprendre à programmer dans le langage Python; nombreux jeux déjà disponibles. 100€. https://gamebuino.com/
@@ -209,7 +191,7 @@ Jeux de société, livres
 ### Robot Turtles (jeu de société) :white_check_mark:
 Jeu de société où l'enfant "programme" une tortue à l'aide de cartes représentant des instructions pour lui faire trouver un diamant. L'adulte prépare le plateau et anime les tortues, comme dans le cas des jeux de programmation. Le jeu peut être adapté pour jouer simultanément avec des jeunes enfants ou des adolescents. A partir de 4 ans. http://www.robotturtles.com/
 
-### Turing Tumble (jeu de société) :white_check_mark:
+### Turing Tumble (jeu de société) :white_check_mark::heart_eyes:
 Jeu de réflexion où l'on prépare un plateau. Il fait ensuite ajouter des composants en plastique pour créer un parcours correspondant au résultat demandé. Les composants en plastique sont finalement des portes logiques comme on trouve dans les concepts de programmation. Le manuel est en anglais mais les illustrations sont assez claires. A partir de 8 ans, ~90€. https://www.turingtumble.com
 
 ### Robot Rally (jeu de société)
@@ -227,19 +209,13 @@ Activités en groupe
 ... et sans ordinateur. Bien adaptés au système éducatif.
 
 ### CS Unplugged :white_check_mark::heart_eyes:
-Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/.
+Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/
 
 ### Coloring Computers (ordinateurs à colorier) :white_check_mark::heart_eyes:
 Du coloriage avec des règles à appliquer. Démontre les principes de base d'un ordinateur de façon assez étonnante. Testé avec succès de 6 à 11 ans. PDF à imprimer en un livret au format A5 (instructions en anglais). https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/
 
 ### Dr Techniko
 "Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/ (en Français sur https://benjiscorner.wordpress.com/2015/01/13/comment-apprendre-a-votre-robot-ou-la-programmation-en-samusant/)
-
-### My Robotic Friends
-Il s'agit de donner des instructions (pour construire un pyramide avec des gobelets) à ses amis, comme si on programmait un ordinateur. http://csedweek.org/unplugged/thinkersmith
-
-### Introducing algorithms to children in reception class
-Un instituteur américain initie les enfants de maternelle au principe des algorithmes avec des ateliers "faire du thé", "programmer un enfant aux yeux bandés", etc. A partir de 3 ans. http://www.computingatschool.org.uk/index.php?id=introducing-algorithms-to-children-in-reception-class
 
 ### My First Computer (ordinateur en papier) :white_check_mark:
 Une activité intéressante pour les plus petits qui consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il y a à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
@@ -266,7 +242,7 @@ Un concours d'informatique annuel, dans l'esprit du Kangourou des Mathématiques
 ### Activités ou stages
 Plusieurs organisations proposent des stages en période de vacances ou des activités hebdomadaires, souvent de 6 à 15 ans, à Paris et ailleurs. Par exemple : Magic Makers (http://magicmakers.fr/), CodeCodeCodec (http://codecodecodec.com/), Teen-Code (http://teen-code.com/), Tech Kids Academy (http://www.techkidsacademy.com/), Evolukid (http://www.evolukid.com/), Voyageurs du Code (http://voyageursducode.fr/), l'Atelier-Goûter du Code (http://www.ateliergouterducode.org/). 
 
-Il faut aussi citer Girls Can Code!, des stages gratuits pour encourager des filles à s'essayer à l'informatique https://gcc.prologin.org/
+Il faut aussi citer Girls Can Code!, des stages gratuits pour encourager des filles à s'essayer à l'informatique: https://gcc.prologin.org/
 
 ### Fab Lab
 Certains Fab Labs proposent des ateliers de montage électronique, souvent associés à de la programmation, comme Villette Makerz (http://villettemakerz.com/).
