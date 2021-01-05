@@ -12,7 +12,7 @@ Programmation "avec des blocs"
 Beaucoup de resources présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
 
 ### Scratch :white_check_mark:
-Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. Scratch s'adresse aux enfants qui savent lire, mais il existe une version simplifiée à partir de 5 ans (https://www.scratchjr.org/). Pour la version classique, voir http://scratch.mit.edu/.
+Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. Scratch s'adresse aux enfants qui savent lire, mais il existe une version simplifiée à partir de 5 ans sur tablette (https://www.scratchjr.org/). Pour la version classique, voir http://scratch.mit.edu/.
 
 ### Looking Glass
 Très similaire à Scratch (y compris dans l'aspect publication sur internet). Plus clairement orienté vers l'écriture d'histoires animées. A partir de 10 ans. https://lookingglass.wustl.edu/
@@ -35,7 +35,7 @@ Langages de programmation simplifiés
 Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
 
 ### Kojo
-On voit bien la méthaphore de la tortue. Pourrait être plus facile à mettre en place. http://kogics.net/
+On voit bien la méthaphore de la tortue, comme avec le langage LOGO des années 80. Pourrait être plus facile à mettre en place. http://kogics.net/
 
 ### Algoid :white_check_mark:
 Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android (mais pas facile à manipuler sur mobile). Les tutoriels sont disponibles en français et vont des bases à la création de jeux vidéos. http://www.algoid.net
@@ -44,15 +44,15 @@ Proche de l'esprit LOGO. Fonctionne sur PC, Raspberry PI et Android (mais pas fa
 Objets animés en 3D. Pas si simple, mais le tutoriel semble abordable. http://livecodelab.net/
 
 ### RoboMind
-Toujours un robot à déplacer, mais de nombreuses actions semblent possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
+Toujours un robot à déplacer, avec de nombreuses actions possibles. Le langage de programmation peut s'utiliser en français. http://www.robomind.net/
 
 ### MicroAlg
-Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter), exécutable sur une page Web et intégrable à [Blockly](#blockly). http://microalg.info/
+Langage de programmation simple en français, dédié à l’algorithmique et à son enseignement. Il est généraliste (pas de robot à piloter) et exécutable sur une page Web. http://microalg.info/
 
 
 Jeux video
 ----------
-Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite ; pour un jeune enfant, il peut être intéressant de multiplier les jeux pour se concentrer sur les premiers niveaux.
+Jeux qui consistent à donner des instructions à un robot pour parcourir un labyrinthe. En général, à partir de 8 ans. La complexité des niveaux augmente vite. Pour un jeune enfant, il peut être intéressant de multiplier les jeux pour qu'il puisse rester sur les niveaux les plus adaptés.
 
 ### Kodable :white_check_mark:
 iPad : https://www.kodable.com/
@@ -70,10 +70,10 @@ Il s'agit de donner des instructions à un bras manipulateur de caisses dans une
 Il faut donner des instructions à une apprentie magicienne. Semble plus élaboré (et plus difficile) que les jeux de type labyrinthe. A partir de 9 ans ; il faut savoir lire l'anglais. http://codemancergame.com/
 
 ### Minecraft :white_check_mark:
-Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans et le texte est en français. https://code.org/minecraft
+Il existe une "Version Education" du jeu Minecraft, avec support pédagogique. Le principe est assez proche des autres jeux, basé sur un assemblage de blocs-instructions. A partir de 8 ans (texte est en français). https://code.org/minecraft
 
 ### Robozzle :white_check_mark:
-Sans doute le premier jeu du genre, mais assez difficile pour les plus jeunes. Surtout sur le Web (malheureusement avec Silverlight, un équivalent vieillot de Flash) : http://www.robozzle.com/, mais il existe des versions pour mobile, non officielles.
+Sans doute un des plus anciens jeux du genre, mais difficile pour les plus jeunes. Surtout sur le Web (malheureusement avec Silverlight, un équivalent vieillot de Flash) : http://www.robozzle.com/, mais il existe des versions pour mobile, non officielles.
 
 
 Jouets programmables
@@ -91,7 +91,7 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 3 ans. Cher (~220€). https://www.primotoys.com/
 
 ### LEGO WeDo :white_check_mark::heart_eyes:
-Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation ; difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/products/lego-education-wedo-2-0-core-set/45300
+Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation ; difficile à trouver en France et cher (> 200€) mais adapté aux enfants de 6 ans ou même un peu moins. https://education.lego.com/en-gb/products/lego-education-wedo-2-0-core-set/45300
 
 ### LEGO BOOST :white_check_mark::heart_eyes:
 Des robots en LEGO, instructions de montage et programmes sur tablette/smartphone (peu de texte). A partir de 7 ans, 160€. https://www.lego.com/fr-fr/themes/boost
@@ -126,24 +126,23 @@ Autres jeux programmables
 -------------------------
 
 ### Micro:bit :white_check_mark::heart_eyes:
-Un kit tout simple et surtout très bon marché. Principalement des petites LEDs programmables. Moins de 20€. https://microbit.org/
+Un kit simple et surtout très bon marché, contenant des petites LEDs programmables des quelques boutons. Moins de 20€. https://microbit.org/
 
 ### Pixel Kit
 Similaire à micro:bit, mais avec un affichage bien plus grand. 80€. https://kano.me/us/store/products/pixel-kit
 
 ### Harry Potter Kano Coding Kit
-Par les personnes qui font l'ordinateur Kano et le Pixel Kit : une baguette magique programmable sur tablette. 50€. https://kano.me/us/store/products/coding-wand
+Par les personnes qui font l'ordinateur Kano et le Pixel Kit : une baguette magique programmable sur tablette. 40€. https://kano.me/us/store/products/coding-wand
 
 
 Electronique
 ------------
 
+### Makey Makey ✅😍
+Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau, le corps humain) à un ordinateur. A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
+
 ### Bristlebot
 Un mini "robot", fabriqué à partir d'une brosse à dent, qui bouge tout seul. Aucune logique, mais facile d'approche pour des jeunes enfants. A partir de 5 ans. http://www.evilmadscientist.com/2007/bristlebot-a-tiny-directional-vibrobot/
-
-### Makey Makey :white_check_mark::heart_eyes:
-Permet de connecter un peu n'importe quoi (des fruits, du métal comme un xylophone, de l'eau, le corps humain) à un ordinateur.
-A combiner par exemple avec OpenEmu sur Mac (émulateur de console avec des jeux très simples) ou OpenMuse (pour créer une partition de musique). C'est "magique" ! A partir de 4 ans. http://www.makeymakey.com/
 
 ### littleBits
 Equivalents des blocks LEGO pour inculquer des notions d'électronique ; il suffit juste de connecter des composants magnetisés. Le "Base Kit" contient 10 composants, y compris batterie, moteur, détecteur de luminosité, buzzer et diodes. A partir de 8 ans. https://sphero.com/collections/all/family_littlebits
@@ -159,7 +158,7 @@ Consoles de jeux programmables
 Des consoles de jeux bon marché par rapport aux grandes marques, mais qui permettent de programmer ses propres jeux. De nombreux modèles, ceci n'est qu'une sélection. Plutôt à partir de 12 ans.
 
 ### Kitco :white_check_mark::heart_eyes:
-Console de jeu portable très limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Programmation en Arduino C (cf. mon [Space Invader](https://github.com/elefevre/jeux-kitco)). Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/.
+Console de jeu portable très limitée (et donc abordable). Les soudures sont à faire soi-même ou dans un atelier organisé par François, le créateur. Programmation en Arduino C (j'ai moi-même écrit un jeu de [Space Invader](https://github.com/elefevre/jeux-kitco)). Prix assez étonnant de 20€ sur ebay et même plus faible si on contacte directement François. https://kitco.fr/.
 
 ### Pokitto
 Une petite console de jeu portable, type Gameboy, à assembler et programmer soi-même (le fait de voir les câblages sur une breadboard est intéressant). 60€. https://www.pokitto.com/
