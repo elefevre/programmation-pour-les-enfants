@@ -91,10 +91,10 @@ Un petit robot de type "tortue", programmable par des touches sur son dos. A par
 Un petit robot programmable à distance. Les instructions sont rendues tangibles par des pièces de plastique de la forme de l'instruction demandée. Très abordable dès 3 ans. Cher (~220€). https://www.primotoys.com/
 
 ### LEGO WeDo :white_check_mark::heart_eyes:
-Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation, difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/products/lego-education-wedo-2-0-core-set/45300
+Initiation aux bases de la programmation et de la robotique au travers d'un coffret composé d'environ 300 briques, capteurs et moteurs. La programmation se fait via une interface simple (sur ordinateur/tablette), avec très peu de texte à comprendre. Semble orienté vers le marché de l'éducation ; difficile à trouver en France et cher (> 200€). https://education.lego.com/en-gb/products/lego-education-wedo-2-0-core-set/45300
 
-### LEGO BOOST
-Des robots en LEGO, programmable avec une tablette. A partir de 160€. https://www.lego.com/fr-fr/themes/boost
+### LEGO BOOST :white_check_mark::heart_eyes:
+Des robots en LEGO, instructions de montage et programmes sur tablette/smartphone (peu de texte). A partir de 7 ans, 160€. https://www.lego.com/fr-fr/themes/boost
 
 ### Kano
 Un ordinateur en kit, à monter, avec des livrets et des jeux d'initiation à la programmation ; le système d'exploitation semble très bien fait (contient des jeux qui initient aux composants d'un ordinateur). Pour 6 ans et plus. A partir de 200€. https://kano.me/
@@ -204,21 +204,21 @@ Programmation de deux robots, en compétition avec les autres joueurs. Le princi
 Une histoire illustrée pour les enfants qui introduit des principes de programmation. 32 pages, traduit en français. A partir de 5 ans. http://www.helloruby.com/
 
 
-Activités en groupe
+Activités sans ordinateur
 -------------------
-... et sans ordinateur. Bien adaptés au système éducatif.
+Souvent bien adaptées au système éducatif.
 
 ### CS Unplugged :white_check_mark::heart_eyes:
 Les fondements de l'informatique, sans ordinateur. Il s'agit de supports à l'intention d'enseignants pour les enfants à partir de 5 ans. Il s'agit d'activités ou d'exercices utilisant des cartes ou parfois les élèves eux-mêmes. Parmi les sujets : les nombres binaires, programmer un robot, trier des nombres, détecter des erreurs, trouver des nombres. En anglais pour l'enseignant mais les ressources pour les élèves n'ont généralement pas de texte. https://csunplugged.org/
 
-### Coloring Computers (ordinateurs à colorier) :white_check_mark::heart_eyes:
+### Coloring Computers (ordinateurs en papier à colorier) :white_check_mark::heart_eyes:
 Du coloriage avec des règles à appliquer. Démontre les principes de base d'un ordinateur de façon assez étonnante. Testé avec succès de 6 à 11 ans. PDF à imprimer en un livret au format A5 (instructions en anglais). https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/
 
 ### Dr Techniko
 "Programmer" un adulte avec des instructions dessinées sur une feuille de papier. A partir de 5 ans. http://drtechniko.com/ (en Français sur https://benjiscorner.wordpress.com/2015/01/13/comment-apprendre-a-votre-robot-ou-la-programmation-en-samusant/)
 
-### My First Computer (ordinateur en papier) :white_check_mark:
-Une activité intéressante pour les plus petits qui consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il y a à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
+### My First Computer :white_check_mark:
+Une activité intéressante pour les plus petits qui consiste à assembler un ordinateur avec des morceaux de papier. Cela permet d'expliquer ce qu'il se trouve à l'intérieur (composants électroniques et logiciels). Voici un exemple : https://www.helloruby.com/play/2
 
 
 Evènements/ateliers
